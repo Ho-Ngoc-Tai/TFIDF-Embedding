@@ -1,0 +1,77 @@
+Trong sự kiện ra mắt sản phẩm mới vào tháng 9, Apple lần đầu công bố tính năng phát hiện bệnh huyết áp cao mãn tính cũng như dấu hiệu bị tăng huyết áp với Watch Series 11 và Watch Ultra 3. Ngoài bộ đôi sản phẩm mới, công ty gần đây cũng cập nhật cho các model cũ hơn gồm Watch Series 9, Watch Series 10 và Apple Watch Ultra 2 khi cài đặt watchOS 26 mới.Tính năng cảnh báo huyết áp cao (Hypertension Notifications) đã được Cơ quan quản lý Thực phẩm và Dược phẩm Mỹ (FDA) chứng nhận nhưng Apple khuyến cáo nó chỉ mang tính chất sàng lọc và cảnh báo sớm.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Tính năng cảnh báo huyết áp cao bắt đầu dùng được ở Việt Nam.
+
+Với từng thị trường, Apple cũng cần được cơ quan quản lý cấp phép trước khi cho người dùng bật tính năng này. Tại Việt Nam, tính năng cảnh báo huyết áp cao trên Apple Watch bắt đầu dùng được từ hôm nay, ngày 4/12.Thay vì sử dụng cơ chế như máy đo huyết áp thông thường, thiết bị của Apple sử dụng cảm biến nhịp tim và theo dõi sự biến đổi trong mạch máu để đưa ra dự đoán về các dấu hiệu huyết áp cao. Quá trình này được thực hiện trong khoảng thời gian đánh giá là 30 ngày, bắt đầu từ ngày thiết lập lần đầu tiên. Người dùng sẽ nhận được cảnh báo thiết lập nhật ký huyết áp và sử dụng máy đo chuyên dụng của bên thứ ba cũng như liên hệ với bác sĩ nếu có dấu hiệu bất thường.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Tăng huyết áp là tình trạng bệnh lý phổ biến.
+
+Đồng hồ phải kết nối với iPhone 11 hoặc mới hơn, các thiết bị đều được cập nhật lên phần mềm mới nhất như iOS 26 hoặc watchOS 26. Tính năng Phát hiện cổ tay (Wrist Detection) cũng cần được bật trong ứng dụng Watch trên iPhone.Để bật thông báo về tăng huyết áp, người dùng mở ứng dụng Sức khỏe trên iPhone, nhấn vào biểu tượng hồ sơ cá nhân ở trên cùng bên phải. Trong mục Tính năng, chọn Checklist sức khỏe và kéo xuống dưới cùng chọn Thông báo tăng huyết áp. Người dùng cần xác nhận từ 22 tuổi trở lên, không mang thai và chưa được chẩn đoán mắc bệnh tăng huyết áp.Nếu người dùng đang theo dõi thai kỳ trong ứng dụng Sức khỏe, tính năng huyết áp cao sẽ không thể bật. Apple cũng cảnh báo không phải tất cả những người bị tăng huyết áp đều nhận được thông báo cũng như tính năng này không nhằm mục đích chẩn đoán, điều trị hoặc hỗ trợ quản lý tăng huyết áp như một thiết bị y tế.
+                    
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            Apple Watch Ultra 3 - màn hình lớn, pin tốt hơn
+                            
+                                Watch Ultra 3 giữ nguyên kiểu dáng nhưng màn hình lớn hơn, pin tốt và sạc nhanh hơn thế hệ cũ, nhưng tính năng cảnh báo huyết áp cao chưa dùng được ở Việt Nam.
+                                
+                                    
+        
+	        
+            17
+        
+        
+                                
+                            
+                        
+                        
+                    
+
+
+
+
+
+Tuấn Hưng

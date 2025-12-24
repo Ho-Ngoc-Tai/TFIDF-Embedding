@@ -1,0 +1,98 @@
+Ngày 22/8, Tổng thống Mỹ Donald Trump cho biết chính phủ sẽ mua 9,9% cổ phần Intel với giá 8,9 tỷ USD, tương đương 20,4 USD một đơn vị. Giá này thấp hơn 4 USD so với mức đóng cửa của cổ phiếu này phiên 22/8.Khoản đầu tư này được cho là động thái can thiệp lớn mới nhất của Nhà Trắng vào doanh nghiệp tư nhân Mỹ, phù hợp với mong muốn của ông Trump nhằm thúc đẩy sản xuất nội địa và mang việc làm trở lại.Nó cũng diễn ra sau khi ông chỉ trích CEO Intel Lip-Bu Tan "có nhiều xung đột lợi ích" và yêu cầu ông từ chức, nhưng sau đó đã thay đổi quan điểm. "Đây là thỏa thuận tuyệt vời cho nước Mỹ và cho Intel. Sản xuất các chất bán dẫn và chip tiên tiến, vốn là lĩnh vực của Intel, là nền tảng cho tương lai quốc gia", ông tuyên bố.Khoản đầu tư 8,9 tỷ USD của Nhà Trắng cộng với 2,2 tỷ USD tài trợ mà Intel đã nhận trước đó nâng tổng mức hỗ trợ mà hãng chip này nhận được từ chính quyền liên bang lên 11,1 tỷ USD. Thỏa thuận cũng đưa chính phủ Mỹ thành cổ đông lớn nhất của Intel, dù hai bên chưa tiết lộ thời điểm hoàn tất giao dịch. Ông Tan tuyên bố cam kết "bảo đảm các công nghệ tiên tiến nhất thế giới được sản xuất tại Mỹ".Một số nhà phân tích cho rằng Intel sẽ được hưởng lợi đặc biệt trong việc xây dựng nhà máy. Hãng đang đầu tư hơn 100 tỷ USD để mở rộng sản xuất tại Mỹ và dự kiến bắt đầu sản xuất chip quy mô lớn vào cuối năm nay tại nhà máy Arizona. "Việc tiếp cận nguồn vốn và có một cổ đông mới mong muốn bạn thành công đều quan trọng", Peter Tuz, Chủ tịch Chase Investment Counsel bình luận. Đầu tuần này, SoftBank cũng công bố rót thêm 2 tỷ USD vào Intel.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Bên ngoài trụ sở Intel ở California. Ảnh: Intel
+
+Tuy nhiên, cũng có những hoài nghi. Theo Andy Li, nhà phân tích cấp cao tại CreditSights, việc chính phủ nắm cổ phần có thể được xem là tín hiệu mạnh rằng Intel "quá lớn để sụp đổ". "Nhưng mặt khác, mọi người lo ngại về tác động quản trị và khả năng công ty hành động vì lợi ích tốt nhất của cổ đông", ông nói.Quan trọng hơn, Intel có những thách thức nội tại về năng lực cạnh tranh cần khắc phục, chứ không chỉ là vốn. Từng được xem là biểu tượng của ngành sản xuất chip Mỹ, Intel đã sa sút do nhiều năm qua do quản lý sai lầm, để mất vị thế dẫn đầu vào tay TSMC và thất bại trong cuộc đua chip AI trước Nvidia.Vốn hóa Intel hiện chỉ hơn 108 tỷ USD, chưa bằng một nửa Advanced Micro Devices (AMD) giá trị hơn 272 tỷ USD còn Nvidia đã trở thành "gã khổng lồ" với vốn hóa 4.340 tỷ USD. Vào quý II, doanh thu Intel ghi nhận doanh thu đi ngang, ở mức 12,9 tỷ USD và khoản lỗ ròng 2,9 tỷ USD.Intel đã bơm hàng tỷ USD để xây dựng một loạt nhà máy sản xuất chip ở Ohio, khu vực mà công ty trước đây gọi là "Trái tim Silicon", nơi họ định sản xuất các chip tiên tiến nhất, bao gồm cả chip phục vụ trí tuệ nhân tạo (AI). Tuy nhiên, vào tháng 7, ông Tan cho biết sẽ không còn chi tiêu tùy tiện và đang làm chậm tiến độ xây dựng tổ hợp ở Ohio, tùy thuộc vào điều kiện thị trường. Hiện nhà máy ở Ohio dự kiến sẽ bắt đầu hoạt động vào năm 2030.Theo Reuters, điều Intel đang cần là khách hàng đặt gia công quy trình chip tiên tiến 14A, nhưng khó đạt được trong ngắn hạn. CEO Lip Bu Tan cảnh báo tháng trước rằng công ty có thể phải rút khỏi mảng gia công chip (foundry) nếu không ký được hợp đồng lớn nào. "Trong tương lai, khoản đầu tư vào Intel 14A sẽ dựa trên các cam kết chắc chắn từ khách hàng", ông nói.Nhà phân tích Kinngai Chan từ Summit Insights nhấn mạnh Intel phải đảm bảo đủ sản lượng đặt mua từ khách hàng để có thể đưa vào sản xuất quy trình 18A và 14A, nhằm giúp mảng foundry trở nên khả thi về mặt kinh tế. "Chúng tôi không nghĩ rằng bất kỳ khoản đầu tư nào của chính phủ sẽ thay đổi được số phận của mảng foundry nếu họ không có đủ khách hàng", ông nói.Hiện ở thế bế tắc, Intel cần chứng minh khả năng sản xuất chip tiên tiến để thu hút khách hàng. Reuters cho biết quy trình 18A hiện tại của Intel - kém tiên tiến hơn 14A, đang gặp vấn đề về tỷ lệ thành phẩm, tức số lượng chip đạt chuẩn để bán ra.Các nhà máy lớn như TSMC thường chấp nhận tỷ lệ hỏng cao ở những lô đầu tiên khi làm việc với khách hàng lớn như Apple. Nhưng với Intel - đang lỗ ròng 6 quý liên tiếp, việc này khó có thể thực hiện mà vẫn giữ được lợi nhuận."Nếu tỷ lệ thành phẩm đạt chuẩn thấp, khách hàng mới sẽ không chọn Intel Foundry, nên điều đó thực sự không giải quyết được vấn đề kỹ thuật của công ty", nhà phân tích Ryuta Makino từ Gabelli Funds, có sở hữu cổ phiếu Intel, nhận định.Makino cho rằng Intel cuối cùng vẫn có thể sản xuất được chip với tỷ lệ đạt chuẩn, nhưng ông đánh giá thỏa thuận với Nhà Trắng bất lợi hơn so với việc Intel chỉ nhận khoản hỗ trợ như quy định ban đầu trong Đạo luật CHIPS dưới thời chính quyền Biden. "Đây không phải là tiền miễn phí", ông nói.Theo thỏa thuận, Nhà Trắng sẽ không có ghế trong hội đồng quản trị Intel và bỏ phiếu thuận cùng hội đồng trong các vấn đề cần cổ đông thông qua, nhưng có một số "ngoại lệ giới hạn". Chính phủ cũng nhận được quyền mua trong 5 năm với giá 20 USD mỗi cổ phiếu cho thêm 5% cổ phần Intel, có hiệu lực nếu Intel mất quyền sở hữu tối thiểu 51% mảng gia công chip.Cổ phiếu Intel tăng 5,5% hôm 22/8 nhờ tin của ông Trump, nhưng giảm 1% trong giao dịch ngoài giờ sau khi chi tiết thỏa thuận được công bố. Đầu năm đến nay, cổ phiếu Intel tăng 23% nhờ CEO Tan công bố kế hoạch cắt giảm nhân sự lớn.Phiên An (theo Reuters)
+                    
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            Chính phủ Mỹ sẽ nắm 10% cổ phần Intel
+                            
+                                Ngày 22/8, Tổng thống Mỹ Donald Trump cho biết chính phủ sẽ nhận 10% cổ phần hãng chip Intel, thông qua chuyển các khoản tài trợ thành cổ phiếu.
+                                
+                                    
+        
+	        
+            9
+        
+        
+                                
+                            
+                        
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            SoftBank sẽ rót 2 tỷ USD vào Intel
+                            
+                                Đại gia viễn thông Nhật Bản thông báo sẽ mua cổ phiếu hãng chip Mỹ với giá 23 USD một đơn vị.
+                                
+                                    
+        
+	        
+            6
+        
+        
+                                
+                            
+                        
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            Cuộc cải tổ để vực dậy Intel
+                            
+                                Cải tổ theo hướng tinh gọn và kỷ luật tài chính hơn, CEO Intel Lip-Bu Tan hy vọng vực dậy tượng đài sản xuất chip một thời của Mỹ.
+                                
+                                    
+        
+	        
+            10

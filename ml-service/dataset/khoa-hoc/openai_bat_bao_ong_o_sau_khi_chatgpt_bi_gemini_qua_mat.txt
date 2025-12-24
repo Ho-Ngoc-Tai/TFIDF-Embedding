@@ -1,0 +1,71 @@
+Trong thông báo nội bộ được WSJ thu thập, Altman cho biết các dự án khác của công ty, như ứng dụng quảng cáo, mua sắm, sức khỏe và trợ lý cá nhân Pulse, sẽ tạm thời có mức độ ưu tiên thấp để dồn lực cho ChatGPT. Công ty sẽ cải thiện tính cá nhân hóa, tốc độ, độ tin cậy của mô hình ngôn ngữ lớn (LLM) chủ lực, cũng như mở rộng phạm vi chủ đề nó có thể xử lý.Thông báo được ra sau khi Google dẫn đầu trong một số bảng xếp hạng mô hình. Ví dụ, theo danh sách của công ty nghiên cứu Prolific tuần trước, Google có bốn mô hình trong top 10, với Gemini 2.5 Pro ở vị trí số một. Danh sách thậm chí chưa tính đến Gemini 3 do mới ra mắt. ChatGPT đứng thứ 8, thấp hơn DeepSeek v3 (thứ 2), Magistral Medium của Mistral (thứ 3), hay mô hình Grok 4 và Grok 3 của xAI (thứ 4 và 5).
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Sam Altman, nhà đồng sáng lập và CEO OpenAI. Ảnh: TechCrunch
+
+OpenAI đi đầu trong việc phổ biến khái niệm LLM khi tung ra ChatGPT ngày 1/12/2022. Tuy nhiên, các đối thủ cạnh tranh đã nhanh chóng bắt kịp và mối đe dọa lớn nhất chính là Google, với Gemini tích hợp trong gần như toàn bộ hệ sinh thái của hãng. Thành công của Google cũng đến sau hai năm hãng kích hoạt "mã đỏ" nhằm đối phó với cơn sốt ChatGPT trên toàn cầu.Sự cạnh tranh khốc liệt khiến việc bảo toàn vị thế dẫn đầu đặc biệt quan trọng với OpenAI, trong bối cảnh họ đang tiêu tốn rất nhiều vốn. Jim Cramer, người dẫn chương trình Mad Money của CNBC, nhận định sau thời gian bùng nổ, công ty sở hữu ChatGPT đang có dấu hiệu "đi ngang". Altman đang đặt tham vọng lớn ở nhiều mảng như tìm kiếm, mạng xã hội, đám mây, doanh nghiệp... nhưng gặp khó khăn vì Google đều mạnh hơn. Cramer thậm chí hình dung ba kịch bản cho OpenAI: được chính phủ Mỹ bảo trợ, bị Microsoft thâu tóm hoặc có thể sụp đổ.Theo The Verge, những gì OpenAI tạo dựng trong ba năm qua không dễ lật đổ. Công ty cũng dự kiến công bố mô hình mới trong tuần tới nhằm đáp trả Gemini 3. Tuy nhiên, họ sẽ phải lường trước được phản ứng của người dùng, tránh kịch bản xảy ra như với GPT-5. Khi ra mắt hồi tháng 8, nhiều người dùng than phiền mô hình thiếu cảm xúc, hoạt động không hiệu quả trong các lĩnh vực như toán học và địa lý so với phiên bản trước. OpenAI đã phải cập nhật mô hình trong ba tháng để khắc phục vấn đề.Huy Đức
+                    
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            Sự lột xác của Google trong cuộc đối đầu với OpenAI
+                            
+                                Hơn hai năm sau khi bị OpenAI tung "cú đánh" bất ngờ với ChatGPT, Google bắt đầu lật ngược tình thế.
+                                
+                                    
+        
+	        
+            63
+        
+        
+                                
+                            
+                        
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            Tạo chữ trong ảnh - thách thức của AI vừa được Google giải quyết
+                            
+                                Google ra mắt công cụ Nano Banana Pro nâng cấp khả năng tạo chữ chính xác, hỗ trợ làm đồ họa, sơ đồ, điều mà các mô hình AI khác chưa làm được.
+                                
+                                    
+        
+	        
+            7

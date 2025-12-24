@@ -1,0 +1,147 @@
+Năm mẫu smartphone mới bao gồm điện thoại gập Mate X7 và bốn phiên bản thuộc dòng Mate 80. Tất cả đều nâng cấp lớn về camera, màn hình sáng hơn, dung lượng pin cao hơn, trang bị xử lý Kirin 9020 và 9030 mới.Điện thoại gập Huawei Mate X7
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Điện thoại gập Huawei Mate X7.
+
+Mate X7 không thay đổi về kiểu dáng so với X6 nhưng có nhiều nâng cấp về phần cứng. Máy tăng khả năng chống nước và bụi lên chuẩn IP58, IP59, vi xử lý mới Kirin 9030 Pro, hệ thống camera tele mới và dung lượng pin lớn hơn.Máy dày 9,5 mm khi gập và 4,5 mm khi mở, trọng lượng 235 gram, nhẹ hơn 4 gram so với X6 và vẫn giữ nguyên khung nhôm. Màn hình chính tăng nhẹ kích thước lên 8 inch, tỷ lệ 8:7,3 và màn hình phụ là 6,49 inch tỷ lệ 20,4:9. Cả hai đều dùng tấm nền LTPO OLED tần số quét 1-120 Hz giúp tiết kiệm năng lượng.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Màn hình bên trong 8 inch khi mở của Mate X7.
+
+Camera chính giữ nguyên 50 megapixel với cảm biến RYYB, khẩu độ mở vật lý thay đổi 10 stop (f/1.4-4.0) và chống rung quang học OIS. Camera tele nâng cấp lên độ phân giải 50 megapixel, độ mở f/2.2 và zoom quang học 3,5x. Camera thứ ba đặt sau máy là góc siêu rộng với độ phân giải 40 megapixel. Sản phẩm cũng có hai camera selfie cùng độ phân giải 8 megapixel, với một đặt ở màn hình ngoài và một trên màn hình trong.Mate X7 sử dụng chipset tốt nhất của Huawei hiện tại là Kirin 9030 Pro nhưng hãng không công bố thông tin chi tiết về tiến trình sản xuất. SoC mới được cho là sử dụng kiến trúc ARM v8 chín nhân, lõi chính xung nhịp 2,75 GHz, lõi hiệu năng cao gấp bốn lần ở tốc độ 2,27 GHz và lõi tiết kiệm năng lượng 1,72 GHz. Các tùy chọn bộ nhớ RAM 12, 16 và 20 GB cùng bộ nhớ trong tối đa 1 TB.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Bản đặc biệt Collector's Edition có RAM 20 GB.
+
+Điện thoại mới của Huawei dùng pin Si-C với hai cell tổng dung lượng 5.600 mAh, hỗ trợ sạc nhanh có dây 66 W và sạc không dây 50 W. Thiết bị chạy hệ điều hành HarmonyOS 6 tại thị trường Trung Quốc và cũng có kết nối vệ tinh.Mate X7 có các lựa chọn màu đen, trắng, tím và đỏ. Bản cấu hình cơ bản 12/256 có giá 12.999 tệ (49 triệu đồng). Bản đặc biệt Collector's Edition gồm ốp lưng, bút và các phụ kiện khác có giá khởi điểm 14.999 tệ (55,9 triệu đồng) cấu hình 16/512 GB trong khi bản cấu hình tốt nhất 20 GB RAM và 1 TB bộ nhớ có giá 17.999 tệ (68 triệu đồng).Mate 80 và Mate 80 Pro
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Mate 80 và Mate 80 Pro có thiết kế giống nhau.
+
+Mate 80 và Mate 80 Pro có thiết kế gần như giống nhau, thậm chí giống một vài thông số kỹ thuật về pin và màn hình. Cả hai dùng tấm nền OLED LTPO 6,75 inch, tần số quét 1-120 Hz, độ phân giải 1.280 x 2.832 pixel, được Huawei tự tin là màn hình điện thoại sáng nhất hiện nay, đạt 8.000 nit cùng lớp kính bảo vệ Kunlun thế hệ hai.Bộ đôi trang bị camera quét khuôn mặt 3D ToF ở mặt trước, cảm biến vân tay ở bên hông và kết nối vệ tinh. Bộ nhớ RAM đều là 12/16 GB, pin 5.750 mAh. Mate 80 Pro có tốc độ sạc nhanh 100 W có dây, 80 W không dây trong khi Mate 80 là 66 W và 50 W tương ứng.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Các lựa chọn màu sắc của Mate 80.
+
+Mate 80 Pro trang bị Kirin 9030, còn Mate 80 thấp hơn là Kirin 9020. Huawei không đưa ra thông số chi tiết nhưng cho biết Kirin 9030 nhanh hơn 35% so với 9020, còn bản 9020 nhanh hơn 35% so với 9010. Dòng chip mới này còn có bản Kirin 9030 Pro dành cho Mate 80 Pro Max, Mate X7, "nhanh hơn một bậc" so với Kirin 9030.Hai máy chung thông số camera góc rộng và siêu rộng với cảm biến 50 megapixel, ống kính khẩu độ thay đổi từ f/1.4 đến f/4.0 và cảm biến RYYB 1/1,28 inch cùng camera góc siêu rộng 40MP với ống kính f/2.2. Mate 80 có camera zoom 5,5x 12 "chấm" với ống kính 125 mm f/3.4, trong khi bản Pro là 48 megapixel, tele 4x, độ mở f/2.1.Quảng cáoMate 80 có giá khởi điểm 4.699 tệ (18 triệu đồng) còn bản Pro từ 5.999 tệ (23 triệu đồng).Mate 80 Pro Max và Mate 80 RS
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Mate 80 Pro Max giống Mate 80 Pro nhưng lớn hơn, dùng chip mạnh hơn.
+
+Mate 80 Pro Max có thiết kế giống 80 Pro nhưng màn hình lớn hơn, chip mạnh hơn, bốn camera sau và pin dung lượng cao hơn. Màn hình máy 6,9 inch tấm nền OLED LTPO hai lớp, tần số quét 1-120 Hz, độ sáng tối đa 8.000 nit. Vi xử lý là Kirin 9030 Pro, RAM 16 GB và bộ nhớ trong tối đa 1 TB.Ở mặt sau, 80 Pro Max sở hữu bốn camera với cảm biến chính 50 megapixel có khẩu độ thay đổi và chống rung quang học (OIS), góc siêu rộng 40 megapixel, ống tele macro 50 "chấm" khẩu độ f/2.1 và chống rung quang học (OIS), thêm một ống tele tiềm vọng 50 megapixel với OIS và zoom quang 6.2x. Khả năng chụp được hỗ trợ với chipset hình ảnh Red Maple thế hệ 2 của Huawei.Mate 80 Pro Max có pin 6.000 mAh, sạc nhanh 100 W, không dây 80 W cùng các màu xanh, vàng, bạc và đen. Máy dày 8,25 mm, nặng 239 gram.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Mate 80 RS Ultimate Design.
+
+Trong khi đó, Mate 80 RS Ultimate Design có thiết kế độc đáo với cụm camera và mặt lưng nổi bật hơn những model còn lại dù chia sẻ nhiều thông số với Mate 80 Pro Max. Màn hình máy, chipset, camera, pin tương tự, chỉ khác RAM tiêu chuẩn 20 GB.Mate 80 RS Ultimate Design sử dụng khung titan, kính cường lực Kunlun Bazan thế hệ ba, dày 8,25 mm và nặng hơn một chút so với bản Pro Max là 249 gram. Các màu lựa chọn gồm tím, trắng sữa và đen.Mate 80 Pro Max có giá từ 7.999 tệ (30 triệu đồng) trong khi bản đặc biệt Mate 80 RS Ultimate Design khởi điểm 11.999 tệ (45 triệu đồng).
+
+
+
+
+
+Hoài Anh

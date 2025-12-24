@@ -1,0 +1,61 @@
+Bài học này xuất phát từ trải nghiệm thực tế tại các buổi đào tạo do Tiến sĩ Abdul Rohman và Tiến sĩ Võ Thị Diễm Trang dẫn dắt trong năm 2025. Chương trình hướng đến mục tiêu hỗ trợ người khuyết tật tiếp cận trí tuệ nhân tạo để học tập, giao tiếp và sáng tạo nội dung, đồng thời, giúp xác định những cải tiến cần thiết để công nghệ này trở thành công cụ hòa nhập.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Buổi đào tạo AI cho cộng đồng người khiếm thính tại TP HCM. Ảnh: RMIT Việt Nam 
+
+Các chuyên gia kỳ vọng trí tuệ nhân tạo mang lại nhiều đột phá trong hỗ trợ người khuyết tật. "Công nghệ số phải mang lại lợi ích cho tất cả mọi người, kể cả những người có nhu cầu đặc biệt. Bằng cách trao quyền và hướng dẫn kỹ năng, kiến thức phù hợp, chúng ta có thể khai mở tiềm năng và tạo cơ hội bình đẳng hơn", Tiến sĩ Abdul Rohman nhấn mạnh.Hoà nhập không chỉ là việc đưa công nghệ đến với mọi người, mà còn là thiết kế công nghệ dựa trên trải nghiệm của người dùng, Tiến sĩ Võ Thị Diễm Trang chia sẻ thêm. "Thay vì chỉ cố cải tiến công nghệ, hãy bắt đầu bằng việc hiểu rõ nhu cầu của chính những người cần nó nhất".Đối với người khiếm thính, AI có thể trở thành cầu nối giao tiếp hằng ngày, tìm kiếm thông tin và học tập trực tuyến qua văn bản. Với người khiếm thị, các công cụ AI có thể mô tả hình ảnh, đọc văn bản và tạo nội dung bằng ngôn ngữ. Tuy nhiên, khi lắng nghe chia sẻ từ người khiếm thính và khiếm thị, hai tiến sĩ rút ra bài học, để AI thực sự phát huy tiềm năng, các nhà phát triển cần hiểu rõ trải nghiệm và ngôn ngữ đặc thù của từng nhóm người dùng.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Cộng đồng người khiếm thị tại Hà Nội học sử dụng AI trong kể chuyện. Ảnh: RMIT Việt Nam
+
+Phần lớn người khiếm thính lớn lên với ngôn ngữ ký hiệu. Cấu trúc và cách hình thành khái niệm của ngôn ngữ ký hiệu khác xa tiếng Việt viết. Điều này gây ra khó khăn khi sử dụng AI, vốn yêu cầu người dùng giao tiếp bằng văn bản. Ví dụ, khi được yêu cầu "mô tả một bối cảnh", một học viên khiếm thính viết: "người - đi học - mưa". Đây là cách họ dịch từng ký hiệu sang chữ, không phải câu hoàn chỉnh theo ngữ pháp tiếng Việt. Với văn bản tối giản như vậy, AI khó hiểu đúng ý, dẫn đến kết quả không như mong muốn.Nhận thức này mở ra hướng phát triển mới cho AI. Theo Tiến sĩ Võ Thị Diễm Trang, thay vì yêu cầu người khiếm thính phải thích nghi với văn bản, AI có thể được thiết kế để hiểu và xử lý ngôn ngữ ký hiệu trực tiếp."Các giải pháp tiềm năng bao gồm chatbot hiểu cú pháp ngôn ngữ ký hiệu, và video hướng dẫn bằng ngôn ngữ ký hiệu để người khiếm thính học cách tương tác với AI một cách tự nhiên hơn", bà nói.Với người khiếm thị, thách thức nằm ở việc những khái niệm thị giác như "đồng lúa bát ngát", "ánh sáng chan hoà" hay "không gian bao la" không tồn tại trong vốn trải nghiệm của họ. Do đó, khi AI yêu cầu mô tả hình ảnh để tạo nội dung, người khiếm thị gặp khó khăn ngay từ đầu.Một học viên khi được yêu cầu viết prompt (câu lệnh) mô tả "khung cảnh buổi sáng", chỉ có thể dựa vào âm thanh: "chim hót, xe chạy, trời yên". Một bạn khác muốn tạo ảnh "bờ biển mênh mông, xanh ngát" nhưng không có trải nghiệm thực về "mênh mông" hay "xanh ngát" là như thế nào. Đây là động lực để phát triển AI theo hướng đa giác quan.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Buổi đào tạo về AI trong kể chuyện dành cho người khiếm thị tại Hà Nội. Ảnh: RMIT Việt Nam
+
+Công nghệ có thể được thiết kế để hiểu và chuyển đổi mô tả âm thanh, xúc giác thành hình ảnh, thay vì chỉ dựa vào mô tả thị giác; xây dựng thư viện prompt xây dựng riêng, sử dụng ngôn ngữ xuất phát từ trải nghiệm phi thị giác. Song song, AI có thể phát triển theo dạng tương tác, chủ động đặt câu hỏi gợi ý để hiểu rõ ý định người dùng, thay vì yêu cầu mô tả chi tiết thị giác từ đầu. Giao diện giọng nói đàm thoại cũng là một hướng đi tiềm năng, giúp người khiếm thị diễn đạt ý tưởng tự nhiên và trực quan hơn.Nhật Lệ

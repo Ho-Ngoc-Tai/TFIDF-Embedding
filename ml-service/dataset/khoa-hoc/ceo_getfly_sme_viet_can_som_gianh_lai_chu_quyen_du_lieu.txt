@@ -1,0 +1,62 @@
+Ông Nguyễn Huy Hoàng, CEO & Co-Founder Getfly CRM cho rằng việc làm cấp thiết hiện nay của SME là làm chủ dữ liệu khách hàng, thay vì phụ thuộc vào các nền tảng thứ ba.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Ông Nguyễn Huy Hoàng - CEO & Co-Founder Getfly CRM. Ảnh: Getfly
+
+- Theo ông dấu hiệu nào cho thấy doanh nghiệp đang mất quyền kiểm soát dữ liệu và hệ lụy của việc phụ thuộc vào nền tảng thứ ba là gì?- Thực tế, doanh nghiệp hiếm khi gọi tên rõ ràng việc "mất chủ quyền dữ liệu", mà chỉ cảm nhận qua những bất ổn trong vận hành. Một sai lầm phổ biến của SME là phụ thuộc gần như toàn bộ vào nền tảng quảng cáo hoặc một vài nhân sự chủ chốt. Khi dữ liệu không nằm trong tay mình, hệ thống kinh doanh trở nên mong manh; chỉ cần nền tảng thay đổi chính sách, siết hiển thị hay tăng chi phí, doanh nghiệp dễ rơi vào thế bị động.Ngoài ra, lệ thuộc vào "key person" (nhân sự chủ chốt) cũng là tình trạng phổ biến. Khi nhân sự nghỉ việc, toàn bộ dữ liệu họ quản lý từ lịch sử tư vấn đến danh sách khách hàng có thể biến mất theo. Hệ lụy không chỉ sụt giảm doanh thu trước mắt mà còn khiến doanh nghiệp không tạo được tài sản tích lũy lâu dài. Về dài hạn, việc thiếu một kho dữ liệu thống nhất và cộng đồng riêng khiến doanh nghiệp luôn trong trạng thái bất an.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Nền tảng Getfly Circle của Getfly giúp doanh nghiệp giành lại chủ quyền dữ liệu. Ảnh: Getfly
+
+- Vì sao đơn vị quyết định ra mắt Getfly Circle ở thời điểm này?- Khi làm việc với hàng nghìn chủ doanh nghiệp mỗi năm, tôi nhận thấy nhiều đơn vị nỗ lực nhưng thường xuyên ở trạng thái lo lắng. Không ít quản lý tìm đến Getfly với nhu cầu triển khai CRM (hệ thống quản lý quan hệ khách hàng), nhưng sau khi áp dụng mới nhận ra vấn đề cốt lõi nằm ở quy trình, vận hành và dữ liệu - những yếu tố họ chưa xác định rõ ngay từ đầu. Nhiều doanh nghiệp SME vẫn vận hành theo kinh nghiệm, sử dụng các nền tảng rời rạc như Excel, Zalo để trao đổi công việc, dẫn đến hệ thống thiếu ổn định. Trong bối cảnh đa kênh, ưu tiên mobile và sự thống trị của Big Tech, SMEs càng dễ hụt hơi nếu không tự chủ dữ liệu và hạ tầng.Về bản chất, những khó khăn này xuất phát từ việc doanh nghiệp chưa thực sự sở hữu dữ liệu. Đây là lý do Getfly giới thiệu nền tảng Getfly Circle vào thời điểm này, nhằm giúp doanh nghiệp chủ động thích ứng trước khi mất lợi thế trên thị trường. Getfly Circle được thiết kế như một "vòng tròn kết nối", hỗ trợ doanh nghiệp nắm giữ dữ liệu và liên thông toàn bộ điểm chạm từ online đến offline.Quảng cáo- Điểm khác biệt của Getfly Circle với các giải pháp CRM trên thị trường là gì?- Điểm cốt lõi của Getfly Circle nằm ở sự kết hợp đồng bộ giữa tư duy quản trị, kỹ năng vận hành và công cụ hỗ trợ. Trong đó, nền tảng all-in-one cung cấp bức tranh 360 độ về khách hàng, giúp doanh nghiệp chủ động tiếp cận và nuôi dưỡng mà không phụ thuộc thuật toán bên thứ ba. Hệ thống đồng thời tạo kênh giao tiếp trực tiếp, cho phép phân loại, chăm sóc và lên lịch tương tác khách hàng trên một không gian riêng, không bị chi phối bởi nền tảng khác.Ngoài ra, Getfly Circle tích hợp công cụ - quy trình - con người, với bộ quy trình mẫu và automation có thể dùng ngay. Gói "quản gia CRM" cung cấp nhân sự đồng hành, hỗ trợ vận hành và đảm bảo doanh nghiệp không bỏ lỡ khách hàng tiềm năng. Nền tảng cũng có API mở để kết nối với hệ thống khác, cùng cơ chế chi phí minh bạch, không ẩn phí và không ràng buộc người dùng vào một công cụ duy nhất.- Nhận định của ông về tầm quan trọng của CRM với mỗi doanh nghiệp?- Giai đoạn cuối 2025 đến 2026 nhiều khả năng sẽ là thời điểm sàng lọc mạnh. Áp lực thuế, yêu cầu minh bạch và sự suy giảm tiêu dùng khiến doanh nghiệp thiếu hệ thống sẽ khó trụ lại. CRM vì thế không còn là tùy chọn. Tôi tin nó sẽ giống như điện, nước hay internet - một hạ tầng bắt buộc trong doanh nghiệp. Thiếu dữ liệu và quy trình vận hành chuẩn hóa, rất khó nói tới tăng trưởng bền vững. Tuy nhiên, đây đồng thời là cơ hội cho những doanh nghiệp sớm chuẩn hóa hệ thống. Khi các đơn vị vận hành cảm tính bị loại khỏi thị trường, lợi thế sẽ nghiêng về các doanh nghiệp nắm dữ liệu và tối ưu vận hành.- Với kinh nghiệm tư vấn triển khai cho hàng nghìn doanh nghiệp, lời khuyên của ông cho SMEs trong cuộc chiến số hóa hiện nay là gì?- Theo tôi, doanh nghiệp SMEs đừng quá tập trung vào công cụ, hãy bắt đầu bằng việc thay đổi tư duy và lưu trữ dữ liệu. Đầu tiên hãy ngồi lại, nhìn thẳng vào thực trạng doanh nghiệp đang hỗn loạn ở đâu? Tiếp theo, cần xây lại nền móng bằng dữ liệu và quy trình. Nền móng không phải chỉ đơn giản là mua phần mềm mà cần chuẩn hóa quy trình Marketing - Sale - Chăm sóc khách hàng.Điều quan trọng tiếp theo, quản trị bằng con số chứ không chỉ bằng linh cảm. Cần nắm được các chỉ số Marketing, chỉ số bán hàng, chỉ số chăm sóc và giữ chân khách hàng. SMEs cũng cần chọn đúng đối tác triển khai, một đối tác có quy trình triển khai rõ ràng, có template và đội ngũ đồng hành hỗ trợ chứ không chỉ cung cấp hệ thống đơn thuần.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Đội ngũ nhân sự của Getfly. Ảnh: Getfly
+
+- Cơ hội cho doanh nghiệp trong năm 2026 như thế nào?- Nửa cuối 2025 và đầu 2026, doanh nghiệp sẽ đối mặt ba thách thức chính. Thứ nhất, cầu tiêu dùng giảm do căng thẳng thương mại, đứt gãy chuỗi cung ứng, chi phí đầu vào tăng và yêu cầu minh bạch thuế lớn hơn, khiến các mô hình thiếu bền vững khó tồn tại. Thứ hai, quá trình sàng lọc thị trường diễn ra mạnh, doanh nghiệp vận hành kém hiệu quả hoặc lãng phí sẽ bị loại. Thứ ba, chỉ những đơn vị tối ưu chi phí, tự động hóa và ra quyết định dựa trên dữ liệu mới duy trì được tăng trưởng.Tuy vậy, bối cảnh này cũng tạo ra cơ hội. Một là, lợi thế cho doanh nghiệp vận hành theo hệ thống, chuyển từ quản lý cảm tính sang quản trị dựa trên dữ liệu. Hai là, cơ hội mở rộng thị phần và tái cấu trúc, khi nhiều doanh nghiệp yếu rút lui. Ba là, dư địa bứt phá từ tự động hóa và đa kênh, bởi năm 2026, CRM, Automation, AI và vận hành đa kênh được dự báo trở thành tiêu chuẩn.Với những phân tích trên, 2026 sẽ là năm tích cực cho doanh nghiệp chủ động rà soát và chuẩn hóa hệ thống ngay từ hiện tại.- Ông có lời khuyên gì cho SME trong quá trình chuyển đổi số?- Điều quan trọng nhất là doanh nghiệp không nên bắt đầu bằng việc mua phần mềm. Chủ doanh nghiệp cần rà soát lại toàn bộ quy trình vận hành, loại bỏ sự chồng chéo và tiến hành chuẩn hóa trước khi áp dụng công nghệ. Công nghệ chỉ đóng vai trò công cụ; nền tảng cốt lõi vẫn là tư duy vận hành.Điểm thứ hai là thay đổi cách tiếp cận. Thay vì đặt câu hỏi "có nên chuyển đổi số hay không", các doanh nghiệp cần tự hỏi "nếu chậm thêm một đến hai năm nữa, liệu còn cơ hội cạnh tranh hay không"?Getfly Circle được xây dựng nhằm hỗ trợ doanh nghiệp hành động sớm, từng bước giành lại "mảnh đất dữ liệu" - yếu tố quan trọng giúp SME bước vào giai đoạn cạnh tranh của năm 2026.Thế Đan
+Tìm hiểu cách Getfly Circle giúp doanh nghiệp làm chủ dữ liệu khách hàng và tối ưu hóa vòng vận hành tại đây

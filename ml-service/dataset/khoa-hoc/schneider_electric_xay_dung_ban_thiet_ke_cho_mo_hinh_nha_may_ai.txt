@@ -1,0 +1,61 @@
+Tại sự kiện Innovation Day 2025 tại Hà Nội, ông Đồng Mai Lâm, Tổng giám đốc Schneider Electric Việt Nam và Campuchia, cho biết sự bùng nổ của trí tuệ nhân tạo (AI) mở ra những cơ hội chưa từng có, nhưng đồng thời đặt ra thách thức về chi phí năng lượng, hiệu quả vận hành và tác động môi trường. Các mô hình ngôn ngữ lớn, hệ thống AI Agent (tác nhân AI) và nền tảng dữ liệu đa phương thức hiện xử lý hàng tỷ tham số mỗi ngày, tiêu tốn nguồn năng lượng khổng lồ."Các tác vụ AI được dự báo có thể chiếm 15-20% tổng điện năng tiêu thụ của trung tâm dữ liệu vào năm 2028, tăng đáng kể so với mức khoảng 8% vào năm 2023", ông Đồng Mai Lâm nói.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Ông Đồng Mai Lâm, Tổng giám đốc Schneider Electric Việt Nam và Campuchia, phát biểu tại Innovation Day 2025. Ảnh: Schneider Electric
+
+Trong bối cảnh đó, thiết kế trung tâm dữ liệu truyền thống không còn theo kịp tốc độ phát triển của AI. Chúng sử dụng năng lượng kém hiệu quả, gây áp lực lớn lên lưới điện quốc gia.Để giải quyết thách thức trên, Schneider Electric hợp tác với nhiều đối tác, trong đó có NVIDIA. Hai bên đã cùng phát triển bộ thiết kế tham chiếu dành cho các trung tâm dữ liệu AI mật độ cao, hướng đến hạ tầng tối ưu về hiệu suất và tiết kiệm năng lượng.Thiết kế tham chiếu là bản chuẩn hóa toàn diện, bao gồm đầy đủ thông số kỹ thuật, bản vẽ và danh mục vật tư. Cách tiếp cậṇ này giúp doanh nghiệp tiết kiệm đáng kể thời gian lập kế hoạch và triển khai trung tâm dữ liệu nhanh chóng, hiệu quả.Khác với cách làm truyền thống, thiết kế này được xây dựng để đáp ứng nhu cầu tính toán cực lớn của các cụm AI hiện đại, đồng thời đặt nền móng cho mô hình "nhà máy AI" (AI Factory) - nơi hạ tầng năng lượng, làm mát và công nghệ vận hành được tích hợp hài hòa.Bộ thiết kế cũng cho phép mở rộng quy mô linh hoạt giữa các mô hình 1-7,5 MW, đáp ứng các cấu hình AI thế hệ mới như NVIDIA GB200 NVL72 và GB300 NVL72 có mật độ rack từ 132- 142 kW, cao gấp nhiều lần so với trung tâm dữ liệu thông thường.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Ông Jensen Huang, CEO Nvidia, giới thiệu về thiết kế tham chiếu do Schneider Electric kết hợp cùng NVIDIA, ra mắt hồi tháng 6. Ảnh: Schneider Electric
+
+Theo đại diện Schneider Electric, quan hệ hợp tác với NVIDIA hướng đến tích hợp toàn diện giữa công nghệ năng lượng và tính toán. Đây là nền tảng để xây dựng hạ tầng AI vừa mạnh mẽ, vừa bền vững, thiết lập tiêu chuẩn mới về trung tâm dữ liệu sẵn sàng cho AI.Tại hội nghị NVIDIA GTC Paris tổ chức hồi tháng 6, ông Jensen Huang, nhà sáng lập và CEO của NVIDIA cho biết AI là công nghệ định hình thời đại, đóng vai trò then chốt trong việc thúc đấy sự chuyển mình của toàn cầu."Cùng với Schneider Electric, chúng tôi đang xây dựng các nhà máy AI - cơ sở hạ tầng thiết yếu đưa AI đến với mọi công ty, các ngành công nghiệp và xã hội", ông Jensen Huang nói.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Ông Đồng Mai Lâm cho rằng sức mạnh thực sự đến từ quan hệ hợp tác giữa những đối tác, khách hàng và cộng đồng cùng chung tầm nhìn. Ảnh: Schneider Electric
+
+Đối với thị trường Việt Nam, những công nghệ được phát triển cho "nhà máy AI" của tương lai như: làm mát bằng chất lỏng đến nền tảng quản lý năng lượng thông minh có thể được tùy biến và ứng dụng, giúp các doanh nghiệp rút ngắn hành trình và đạt chuẩn bền vững quốc tế.Theo ông Lâm, Schneider Electric đang hợp tác với hơn một triệu đối tác trên toàn cầu, tạo nên hệ sinh thái chuyên gia lớn nhất, thúc đẩy quá trình điện hóa và số hóa."Chúng tôi cùng đối tác của mình đồng sáng tạo giải pháp, kết hợp chuyên môn toàn cầu với hiểu biết địa phương để giải quyết những thách thức tại Việt Nam, hỗ trợ các đối tác và khách hàng địa phương xây dựng hạ tầng bền vững, sẵn sàng cho AI", ông Lâm nói.Văn Hà

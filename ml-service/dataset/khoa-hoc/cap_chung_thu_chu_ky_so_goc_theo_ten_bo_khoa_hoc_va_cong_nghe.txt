@@ -1,0 +1,45 @@
+Tổ chức cung cấp dịch vụ chứng thực điện tử quốc gia (Root CA), "gốc tin cậy" của hệ thống chữ ký số Việt Nam, vừa được tạo khóa và cấp chứng thư chữ ký số gốc theo tên Bộ Khoa học và Công nghệ mới. Đây là bước cập nhật hạ tầng quan trọng sau quá trình Bộ Thông tin và Truyền thông cùng Bộ Khoa học và Công nghệ sáp nhập.Root CA có nhiệm vụ xác nhận danh tính các nhà cung cấp chữ ký số và quản lý chứng thư gốc - nền tảng để các chứng thư cấp dưới được tin cậy, bảo đảm an toàn cho giao dịch điện tử của cơ quan nhà nước, doanh nghiệp và người dân.Mỗi quốc gia thường chỉ có một Root CA. Tại Việt Nam, đơn vị này do NEAC quản lý, trong khi các nhà cung cấp như VNPT, Viettel hay FPT là CA cấp dưới và chỉ được hoạt động khi nhận chứng thư từ Root CA, giúp hệ thống chữ ký số duy trì tính thống nhất và tin cậy. Trước đó, chứng thư gốc mang tên Bộ Thông tin và Truyền thông.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Giám đốc NEAC Tô Thị Thu Hương (áo xanh) tại buổi tạo khóa cấp chứng thư chữ ký số gốc theo tên Bộ Khoa học và Công nghệ. Ảnh: Thảo Anh
+
+Buổi tạo khóa diễn ra ngày 25/11 tại trung tâm dữ liệu của NEAC ở Hà Nội, trong phòng vận hành được phong tỏa theo quy trình an toàn cao. Toàn bộ quy trình được thực hiện nghiêm ngặt theo kịch bản được phê duyệt. Các thao tác đều được kiểm tra, xác nhận, lập biên bản và ghi hình đầy đủ, đáp ứng yêu cầu minh bạch, kiểm toán và giám sát kỹ thuật.Đồng thời, để đáp ứng quy định mới về dịch vụ tin cậy, Root CA quốc gia tự cấp bốn chứng thư nền tảng cho các dịch vụ gồm: ký số bằng USB Token; ký số từ xa; ký số trên thiết bị di động; và dấu thời gian. Đây là những loại chứng thư làm "xương sống" cho các dịch vụ chữ ký số trên thị trường.Quảng cáoĐại diện Trung tâm Chứng thực điện tử quốc gia cho hay, với vai trò "gốc tin cậy quốc gia", NEAC xác định việc khởi tạo chứng thư chữ ký số gốc mới cho hệ thống Root CA không đơn thuần cập nhật kỹ thuật theo tên gọi mới của Bộ, mà còn là "sứ mệnh củng cố nền tảng niềm tin cho hạ tầng số Việt Nam"."Đây là bước đi then chốt để hoàn thiện hạ tầng tin cậy và bảo đảm tính tuân thủ pháp luật trong bối cảnh mới", người này cho biết.Theo NEAC, sự kiện đánh dấu bước hoàn thiện, cập nhật hạ tầng tin cậy quốc gia về chữ ký số, bảo đảm phù hợp với tên gọi hiện hành của Bộ Khoa học và Công nghệ và khuôn khổ pháp lý mới về giao dịch điện tử, chữ ký điện tử và dịch vụ tin cậy.Người dùng và doanh nghiệp không bị ảnh hưởng bởi đợt chuyển đổi này. Chứng thư gốc cũ vẫn còn hiệu lực. Các chứng thư đã cấp cho cơ quan, tổ chức và cá nhân sẽ hoạt động bình thường cho đến khi hết hạn. Nhờ vậy, các giao dịch điện tử hiện nay không bị gián đoạn hay phải thiết lập lại. Trên cơ sở chứng thư chữ ký số gốc mới, NEAC sẽ từng bước cấp phát cho các tổ chức cung cấp dịch vụ tin cậy để phục vụ người dùng.Trọng ĐạtTiết kiệm hàng trăm tỷ đồng nếu chuyển sang công chứng điện tử
+
+
+2
+
+Quy định mới về chữ ký số
+
+
+4
+
+28% người Việt trưởng thành có chữ ký số
+
+
+6
+
+
+
+.box-wg-guicauhoi{background:#fff;border:1px solid #e5e5e5;border-radius:4px;padding:16px}.box-wg-guicauhoi .start-step{width:100%;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.box-wg-guicauhoi .txt-start{-ms-flex-negative:1;flex-shrink:1;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;padding-right:20px}.box-wg-guicauhoi .txt-start .title-tv{font:700 18px/160% Merriweather,serif}.box-wg-guicauhoi .txt-start .txt{color:#626262;font-size:16px;margin-top:4px;line-height:140%}.box-wg-guicauhoi .txt-start .txt a{color:#074d94;text-decoration:underline}.box-wg-guicauhoi .btn_vne{background:#c92a57;padding:0 24px;display:inline-block;border-radius:4px;font-size:16px;-ms-flex-negative:0;flex-shrink:0}
+
+
+
+Góp ý kiến tạo
+Bạn có thể đặt mọi câu hỏi, vấn đề về Khoa học công nghệ, Đổi mới sáng tạo, Chuyển đổi số trực tiếp cho Bộ Khoa học và Công nghệ
+
+Gửi góp ý

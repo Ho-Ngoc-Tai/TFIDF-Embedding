@@ -1,0 +1,104 @@
+Tăng huyết áp được giới y khoa gọi là "kẻ giết người thầm lặng". Theo ước tính của Tổ chức Y tế Thế giới (WHO), căn bệnh này ảnh hưởng đến hơn 1,5 tỷ người trên toàn cầu nhưng một nửa trong số đó không biết mình mắc bệnh vì nó hiếm khi bộc lộ triệu chứng rõ ràng. Đây là lý do các hãng công nghệ cố gắng tích hợp các giải pháp để đo huyết áp cho thiết bị đeo, nhằm đưa ra cảnh báo kịp thời.
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+Video Player is loading.XemHiện tại 0:00/Thời lượng 3:38Đã tải: 0%0:00Tiến trình: 0%Tắt tiếng Tỷ lệ phát lại1xChương mụcChương mụcDescriptionsdescriptions off, selectedAudio TrackToàn màn hìnhThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
+
+
+
+Apple nêu cách thức hoạt động của tính năng cảnh báo huyết áp cao
+
+
+
+
+
+Tiến sĩ Rajiv Kumar, Phụ trách Y tế và Nghiên cứu tại Apple giải thích cách hoạt động của Apple Watch khi cảnh báo huyết áp cao. Video: Trường Giang/Apple
+Trả lời phỏng vấn VnExpress, tiến sĩ Rajiv Kumar, Phụ trách y tế và nghiên cứu tại Apple, cho biết một trong những rào cản lớn để có sức khỏe tốt hơn là mọi người không đủ thông tin về tình trạng cơ thể hiện tại. "Đó là lý do tính năng thông báo tăng huyết áp ra đời", ông nói.Cơ chế hoạt động với cảm biến ánh sáng "đọc" mạch máuThay vì sử dụng vòng bít bơm hơi truyền thống để đưa ra chỉ số cụ thể về huyết áp như 120/80 mmHg, Apple chọn cách tiếp cận thụ động: theo dõi phản ứng của mạch máu để cảnh báo nguy cơ tăng huyết áp mãn tính. Apple Watch không cố gắng đưa ra con số cụ thể, thay vào đó hoạt động dựa trên nguyên lý quang học.Tiến sĩ Kumar giải thích công nghệ này hoạt động dựa trên cảm biến nhịp tim quang học có sẵn trên đồng hồ. Khi tim đập, nó đẩy máu ra ngoài, đi xa khỏi tim. Huyết áp tăng lên trong giây lát và máu dồn ra ngoài. Khi sự gia tăng áp lực đó xảy ra, các mạch máu sẽ giãn ra để phản ứng lại.Thuật toán của Apple sẽ phân tích các biến đổi, dựa vào cách mạch máu phản ứng với từng nhịp tim, để tìm kiếm các dấu hiệu của bệnh cao huyết áp mãn tính. Quá trình này diễn ra thụ động khi người dùng đeo đồng hồ, giúp chủ nhân nhận được cảnh báo sớm mà không cần thực hiện bất kỳ thao tác đo đạc chủ động nào.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Apple Watch Ultra 3 kết nối iPhone 17 Pro Max đã bật tính năng cảnh báo huyết áp cao. Ảnh: Tuấn Hưng
+
+Hiệu quả thực tế trong thử nghiệm lâm sàngĐể xây dựng tính năng, Apple cho biết đã sử dụng dữ liệu huấn luyện từ hơn 100.000 người tham gia. Sau đó, thuật toán được xác thực trong một nghiên cứu lâm sàng với 2.000 người thuộc nhiều nhóm nhân khẩu học khác nhau. Trong nghiên cứu xác thực, người tham gia đeo Apple Watch trong 30 ngày và đối chiếu với kết quả đo bằng vòng bít y tế hai lần mỗi ngày (được xem là dữ liệu gốc).Quảng cáoKết quả cho thấy thuật toán đạt độ nhạy (khả năng phát hiện bệnh) là 41,2% và độ đặc hiệu (khả năng xác định đúng người không mắc bệnh) là 92,3%. Tiến sĩ Kumar khẳng định con số này tương đương hiệu suất của các vòng bít đo huyết áp lâm sàng (thường có độ nhạy khoảng 50% và độ đặc hiệu 90%).Apple Watch không chẩn đoán bệnh, chỉ là "lời nhắc" đi khámĐại diện Apple nhấn mạnh tính năng này không thay thế bác sĩ. Giá trị cốt lõi của nó là giúp những người chưa từng được chẩn đoán nhận ra nguy cơ tiềm ẩn."Nếu bạn nhận được thông báo, chúng tôi sẽ chia sẻ hướng dẫn về các bước tiếp theo", ông Kumar nói. Cụ thể, ứng dụng Sức khỏe (Health) sẽ kích hoạt một quá trình mới: nhắc người dùng đo huyết áp bằng máy đo chuyên dụng (vòng bít) hai lần một ngày. Các dữ liệu được tổng hợp thành báo cáo chi tiết để người dùng trao đổi với bác sĩ, hỗ trợ quá trình chẩn đoán và điều trị chính xác.Dù không thay thế chẩn đoán chính xác của bác sĩ, cơ chế "đeo và quên" (set-and-forget) mà không cần hiệu chuẩn phức tạp của Apple Watch được xem là bước tiến quan trọng trong việc phổ cập hóa việc sàng lọc huyết áp cho nhiều người dùng hơn.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Ngoài cảnh báo huyết áp cao, Apple Watch còn nhiều cảnh báo về bệnh lý khác như nhịp tim thấp, nhịp tim cao, ngừng thở qua đêm, thể chất tim mạch.... Ảnh: Tuấn Hưng
+
+Trong lễ ra mắt sản phẩm mới vào tháng 9, Apple lần đầu công bố tính năng phát hiện bệnh huyết áp cao mãn tính cũng như dấu hiệu bị tăng huyết áp với Watch Series 11 và Watch Ultra 3. Ngoài bộ đôi sản phẩm mới, công ty cũng cập nhật cho model cũ hơn gồm Watch Series 9, Watch Series 10 và Apple Watch Ultra 2 khi cài đặt watchOS 26. Tính năng chính thức dùng được tại Việt Nam từ ngày 4/12.Để bật thông báo về tăng huyết áp, người dùng mở ứng dụng Sức khỏe trên iPhone, nhấn vào biểu tượng hồ sơ cá nhân ở trên cùng bên phải. Trong mục Tính năng, chọn Checklist sức khỏe và kéo xuống dưới cùng chọn Thông báo tăng huyết áp. Người dùng cần xác nhận từ 22 tuổi trở lên, không mang thai và chưa được chẩn đoán mắc bệnh tăng huyết áp.
+                    
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            Apple Watch dùng được tính năng cảnh báo huyết cao ở Việt Nam
+                            
+                                Sau hơn hai tháng giới thiệu, Apple Watch Series 9, Ultra 2 hoặc mới hơn chạy watchOS 26 bắt đầu dùng được tính năng cảnh báo huyết áp cao ở Việt Nam.
+                                
+                                    
+        
+	        
+            3
+        
+        
+                                
+                            
+                        
+                        
+                    
+
+
+
+
+
+Tuấn Hưng

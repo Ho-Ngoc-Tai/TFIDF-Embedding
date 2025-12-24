@@ -1,0 +1,21 @@
+Trong bối AI ngày càng tiến bộ, thậm chí có thể thực hiện nhiều tác vụ lập trình cơ bản, nhiều học sinh tỏ ra băn khoăn trong việc chọn ngành khoa học máy tính khi bước vào cánh cửa đại học. Tuy nhiên, giáo sư Geoffrey Hinton, một trong ba người tiên phong đặt nền móng cho kỷ nguyên AI hiện tại, lên tiếng trấn an."Nhiều người nghĩ khoa học máy tính chỉ là lập trình. Rõ ràng, trở thành một lập trình viên cấp trung thạo việc sẽ không còn là một nghề nghiệp lâu dài nữa, bởi AI có thể làm điều đó", ông nói, nhấn mạnh giá trị cốt lõi của tấm bằng cử nhân khoa học máy tính vượt xa việc viết code và sẽ vẫn có giá trị trong một thời gian khá dài.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Nhà khoa học Geoffrey Hinton. Ảnh: Reuters
+
+Quan điểm ông Hinton nhận được sự đồng tình từ nhiều tên tuổi lớn trong ngành công nghệ và AI. "Lập trình có nhiều thứ hơn là chỉ viết mã, và khoa học máy tính là một chuyên ngành tuyệt vời để học tư duy hệ thống", Chủ tịch OpenAI Bret Taylor, người sở hữu bằng cử nhân và thạc sĩ khoa học máy tính tại Đại học Stanford, nhận định.Tuy nhiên, Sameer Samat, Giám đốc Android của Google, cho rằng ngành khoa học máy tính cần định hình lại để thích nghi với bối cảnh bùng nổ AI hiện nay.Quảng cáoTrong khi đó, giáo sư Hany Farid của UC Berkeley chỉ ra cơ hội nghề nghiệp tốt nhất cho sinh viên tốt nghiệp ngành khoa học máy tính không nằm ở những công ty công nghệ lớn. Thay vào đó, chúng nằm ở sự giao thoa giữa máy tính và các lĩnh vực khác, như khám phá thuốc, hình ảnh y tế, tài chính tính toán, khoa học thần kinh tính toán và khoa học xã hội tính toán.Giáo sư Geoffrey Hinton cũng ủng hộ mạnh mẽ việc học lập trình từ trung học cơ sở, cho rằng đây là hoạt động trí tuệ bổ ích, dù AI đang ngày càng giỏi trong việc tự động tạo ra mã nguồn theo yêu cầu. "Tôi nghĩ học lập trình rất hữu ích, ngay cả khi AI đã làm hết mọi việc lập trình cho họ. Học viết mã có lẽ hơi giống với học tiếng Latin nếu bạn theo học ngành nhân văn, tức bạn có thể không bao giờ nói tiếng Latin, nhưng việc học nó vẫn rất hữu ích".Theo ông, muốn trở thành kỹ sư hoặc nhà nghiên cứu AI cấp cao, sinh viên cần tập trung nâng cao khả năng tư duy phản biện thay vì chỉ theo đuổi một kỹ năng cụ thể vì có thể bị AI thay thế. "Một số kỹ năng luôn có giá trị, như hiểu biết về toán học, thống kê, lý thuyết xác suất và đại số tuyến tính. Đó là những kiến thức sẽ không bao giờ biến mất".Huy Đức (theo Business Insider, The Verge)

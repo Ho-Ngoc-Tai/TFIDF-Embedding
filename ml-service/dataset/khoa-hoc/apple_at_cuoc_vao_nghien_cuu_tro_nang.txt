@@ -1,0 +1,55 @@
+Nhân ngày quốc tế người khuyết tật 3/12, Apple giới thiệu phim ngắn cho thấy học sinh khuyết tật có thể trải nghiệm cuộc sống tại trường trọn vẹn nhờ các trợ năng có trên thiết bị công nghệ như điện thoại, máy tính bảng, laptop. Người khiếm thị, khiếm thính hoặc khuyết tật vận động có thể theo dõi bài giảng, nhận biết nội dung trên màn hình hay chơi các môn thể thao ngoại khóa.Phim ngắn này được đạo diễn bởi Kim Gehrig, người đứng sau phim The Greatest về trợ năng thắng giải Emmy 2022. Bài hát kỷ niệm trong phim do Tim Minchin, nhà soạn nhạc từng đạt giải Tony, sáng tác và được biểu diễn bởi các học sinh khiếm thính và khuyết tật ở nhiều nơi trên thế giới.
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+Video Player is loading.XemHiện tại 0:00/Thời lượng 2:50Đã tải: 0%0:00Tiến trình: 0%Tắt tiếng Tỷ lệ phát lại1xChương mụcChương mụcDescriptionsdescriptions off, selectedAudio TrackToàn màn hìnhThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
+
+
+
+Apple và 40 năm đặt cược vào nghiên cứu trợ năng
+
+
+
+
+
+Phim ngắn về cách học sinh, sinh viên khuyết tật có thể trải nghiệm cuộc sống với trợ năng trên thiết bị công nghệ.
+Apple thường giới thiệu các trợ năng mới cho người khuyết tật vào đầu năm trước khi chính thức cập nhật trên các thiết bị vào ngày quốc tế người khuyết tật. Năm nay, hàng loạt tính năng mới được bổ sung như Giọng thuyết minh nội dung trên màn hình VoiceOver, Kính lúp cho Mac, Đọc văn bản bằng chữ nổi Braille Access, AssistiveTouch trên Apple Watch và iPad, Hỗ trợ đọc Accessibility Reader hay Chú thích trực tiếp...Năm nay, Apple kỷ niệm 40 năm liên tục phát triển trợ năng (Accessibility) trên các thiết bị của mình. "Năm 1985, khi tôi còn đeo máy trợ thính nhét tai cồng kềnh, Apple đã âm thầm đặt nền móng cho một điều gì đó lớn lao hơn nhiều", Bill Schiffmiller, cây bút trên Forbes, người sáng lập công ty tư vấn Akoio và nổi tiếng với hàng loạt nỗ lực nhằm thúc đẩy giải pháp về trợ năng và hòa nhập, đặc biệt trong lĩnh vực công nghệ thính giác và âm thanh cho người khuyết tật, cho biết. Năm đó, Apple giới thiệu MacInTalk, một trong những công cụ chuyển văn bản thành giọng nói cơ bản đầu tiên và mở văn phòng dành riêng cho người khuyết tật.Trong một tập podcast của nhà thiết kế âm thanh nổi tiếng Dallas Taylor, Sarah Herrlinger, Giám đốc chính sách và sáng kiến trợ năng toàn cầu của Apple, chia sẻ về việc phát triển trợ năng đã ăn sâu vào quy trình thiết kế của hãng thế nào. "Đó không phải là một ý nghĩ chợt nảy ra khi làm thiết bị, đó là một tiêu chuẩn được áp dụng từ đầu", bà nói.Triết lý sản phẩm của Apple là đơn giản và có thể dễ dàng sử dụng với mọi người. Với nhiều công ty, "mọi người" có thể dừng ở người trẻ, người lớn tuổi, người am hiểu công nghệ hoặc không, còn với Apple, điều này bao gồm cả người có khiếm khuyết. "Quả táo" nói việc tiếp cận trợ năng (Accessibility) như một phần của triết lý "Design for All" (Thiết kế cho tất cả), không phải là tính năng được thêm vào sau cùng.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Tính năng hỗ trợ chữ nổi Braille Access trong trình đọc màn hình VoiceOver của Apple.
+
+Apple cũng đi đầu khi phát triển các trợ năng trong nhiều năm qua. Năm 2005, công ty giới thiệu VoiceOver, cho phép người khiếm thị có thể kiểm soát màn hình cảm ứng của iPhone, điều nhiều người cho là không thể với smartphone vốn thể hiện dày đặc thông tin trước đó. Theo Schiffmiller, tính năng Live Listen cho phép truyền âm thanh trực tiếp từ iPhone tới thiết bị trợ thính đã thay đổi cách người khiếm thính như ông sinh hoạt hàng ngày.Việc đặt cược dồn nhiều nguồn lực cho phát triển trợ năng của Apple cũng đem lại những "quả ngọt" bất ngờ khác. Haptic Touch (Cảm ứng phản hồi) cung cấp phản hồi vật lý như rung, ban đầu được thiết kế cho người có thị lực kém nhưng sau đó trở thành tính năng phổ biến, giúp người dùng bình thường cảm thấy tự tin, chính xác hơn khi thao tác, thậm chí không cần nhìn vào màn hình. Phụ đề trực tiếp (Live Captions) ban đầu dành cho người khiếm thính nhưng sau đó trở thành chuẩn chung cho tất cả video hiện nay vốn muốn xem ở môi trường ồn ào hoặc cần giữ im lặng, khác biệt về ngôn ngữ. Siri ban đầu cũng được phát triển để hỗ trợ nhập liệu cho người khiếm thị nhưng sau đó trở thành trợ lý ảo với đa dạng tính năng.Với hơn một tỷ người khuyết tật trên toàn cầu, việc phát triển các trợ năng được cho là đã giúp Apple mở rộng tệp khách hàng. Theo Bloomberg, điều này cũng đem đến cho hãng những người dùng trung thành bởi người khuyết tật ít có xu hướng chuyển sang đối thủ cạnh tranh khi sản phẩm họ đang sử dụng đã được đầu tư nghiêm túc cho trải nghiệm. Ngoài ra, cam kết hỗ trợ lâu dài cho những người yếu thế cũng là cách "Quả táo" tạo uy tín trong mắt công chúng và các tổ chức xã hội.
+
+
+
+
+
+Tuấn Hưng

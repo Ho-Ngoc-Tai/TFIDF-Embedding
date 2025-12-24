@@ -1,0 +1,71 @@
+Hàng loạt dịch vụ như Canva, Claude, Zoom... khó truy cập từ chiều 5/12 (giờ Hà Nội), ảnh hưởng đến nhiều người dùng cả ở Việt Nam và trên thế giới. Một số website hiển thị lỗi 500 Internal Server Error, cho thấy kết nối với máy chủ của trang gặp vấn đề."Sự cố không phải do tấn công mạng trực tiếp hay gián tiếp vào hệ thống của Cloudflare, cũng không liên quan đến bất cứ hoạt động độc hại nào. Nó xảy ra do chúng tôi thay đổi logic phân tích nội dung nhằm phát hiện và khắc phục một lỗ hổng quy mô toàn ngành lộ diện trong React Server Components (RSC)", Dane Knecht, Giám đốc công nghệ tại Cloudflare, giải thích. Ông cho biết, sự cố ảnh hưởng đến khoảng 28% tổng lưu lượng HTTP mà Cloudflare phục vụ.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Logo Cloudflare hiển thị trên smartphone. Ảnh: Bảo Lâm
+
+Lỗ hổng bảo mật nghiêm trọng được gọi là React2Shell, ảnh hưởng đến thư viện java script nguồn mở React dùng để xây dựng giao diện web và ứng dụng di động, cũng như những nền tảng phụ thuộc như Next.js, React Router, Waku... Lỗ hổng nằm trong giao thức Flight của RSC, cho phép tin tặc thực thi mã từ xa trong ứng dụng React và Next.js bằng cách gửi yêu cầu HTTP độc hại tới các điểm cuối của React Server Function.Cloudflare là một trong những nhà cung cấp hạ tầng Internet lớn nhất thế giới, vận hành mạng lưới phân phối nội dung, tường lửa web và hệ thống chống tấn công DDoS cho hàng triệu website và ứng dụng. Họ là nền tảng thiết yếu cho khoảng 20% lưu lượng toàn cầu, giúp bảo vệ website khỏi các cuộc tấn công mạng và tối ưu hóa tốc độ tải trang.Quảng cáoĐây là lần thứ hai trong chưa đầy 20 ngày, Cloudflare gặp lỗi, dẫn đến hàng loạt dịch vụ khác ảnh hưởng. Tối 18/11, người dùng tại Việt Nam và nhiều khu vực trên thế giới gặp khó khăn khi truy cập các nền tảng lớn như xAI, Grok, X, Discord, ChatGPT, Shopify và hàng nghìn website nhỏ khác.Cloudflare sau đó xác nhận nguyên nhân nằm ở lỗi cấu hình trong bản cập nhật module quản lý Bot (Bot Management) khiến lưu lượng truy cập hợp lệ bị chặn. Sự cố được khắc phục sau 45 phút, nhưng đặt ra vấn đề về vai trò của công ty và các đơn vị cung cấp dịch vụ tương tự trong cấu trúc mạng toàn cầu.Thu Thảo (Theo Bleeping Computer, Times of India)
+                    
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            Cloudflare - 'người gác cổng' của Internet
+                            
+                                Cloudflare đóng vai trò "màng lọc" bảo vệ kết nối Internet, được nhiều dịch vụ lựa chọn sử dụng, nhưng cũng bị coi là một trong những điểm nghẽn của thế giới số.
+                                
+                                    
+        
+	        
+            33
+        
+        
+                                
+                            
+                        
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            Internet toàn cầu 'mong manh' khi phụ thuộc vào một vài 'ông lớn'
+                            
+                                Hai nền tảng điện toán đám mây của Amazon và Microsoft lần lượt gặp sự cố gây ảnh hưởng diện rộng đến các dịch vụ Internet, cho thấy rủi ro khi phụ thuộc Big Tech.
+                                
+                                    
+        
+	        
+            39

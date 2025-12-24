@@ -1,0 +1,135 @@
+try{try{document.getElementById("vnexpress_streaming").removeAttribute("sandbox");document.getElementById("vnexpress_streaming").setAttribute("src",document.getElementById("vnexpress_streaming").getAttribute("data-src"));}catch(e){}}catch(e){console.log("error_replace_script",e);}
+try{try{for(const iframe of document.querySelectorAll("iframe.vnelivestreaming_434871")){if(!iframe.getAttribute("src")&&iframe.getAttribute("data-src")){iframe.removeAttribute("sandbox");iframe.setAttribute("src",iframe.getAttribute("data-src"));}}}catch(e){}}catch(e){console.log("error_replace_script",e);}
+
+Chung kết nam giải Bóng rổ Trẻ: Vinschool The Harmony gặp Cầu Giấy
+
+
+
+
+Trận đấu diễn ra lúc 15h ngày 7/12, tại Cung Thiếu nhi Hà Nội cơ sở 2, số 17 Phạm Hùng (Hà Nội).Giải Bóng rổ Trẻ VnExpress 2025 - Cup Ziaja do Báo VnExpress và Công ty Cổ phần Dịch vụ Trực tuyến FPT (FPT Online) tổ chức, có sự giám sát chuyên môn của Liên đoàn Bóng rổ Việt Nam. Giải nằm trong đề án quốc gia "Phát triển bóng rổ học đường đến năm 2030".Giải năm nay ghi nhận lượng đăng ký cao kỷ lục, với 80 đội gửi hồ sơ chỉ trong một tuần mở cổng. Do giới hạn quy mô, ban tổ chức chọn 36 đội đăng ký sớm nhất tham gia thi đấu, gồm 24 đội nam và 12 đội nữ. Vòng bảng diễn ra từ 31/10 tới 16/11, còn các vòng knock-out diễn ra từ 23/11 đến 7/12.Lan Anh
+                    
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            Nam sinh dẫn dắt Vinschool The Harmony vào chung kết giải bóng rổ trẻ VnExpress
+                            
+                                Bắt đầu tập luyện chuyên nghiệp từ năm lớp 7, Đỗ Thế Bình, 16 tuổi, hiện là hậu vệ ghi điểm then chốt, đưa THPT Vinschool The Harmony tiến vào chung kết Giải bóng rổ trẻ VnExpress - Cup Ziaja 2025.
+                                
+                                    
+        
+	        
+            
+        
+        
+                                
+                            
+                        
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            Ngày mai diễn ra chung kết giải Bóng rổ Trẻ VnExpress 2025
+                            
+                                Hai trận chung kết nam, nữ giải Bóng rổ Trẻ VnExpress 2025 sẽ diễn ra chiều 7/12 tại Cung Thiếu nhi Hà Nội.
+                                
+                                    
+        
+	        
+            
+        
+        
+                                
+                            
+                        
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            Bán kết nam 2: Nguyễn Tất Thành 40-47 Vinschool The Harmony
+                            
+                                THPT Vinschool The Harmony vượt qua Nguyễn Tất Thành với tỷ số 47-40 để giành tấm vé thứ hai vào chung kết Giải Bóng rổ Trẻ VnExpress 2025 - Cup Ziaja.
+                                
+                                    
+        
+	        
+            
+        
+        
+                                
+                            
+                        
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            Bán kết nam 1: Việt Đức 50-64 Cầu Giấy
+                            
+                                Đội nam THPT Cầu Giấy đánh bại Việt Đức 64-50 để vào chung kết Giải Bóng rổ Trẻ VnExpress 2025 - Cup Ziaja.
+                                
+                                    
+        
+	        
+            
+        
+        
+                                
+                            
+                        
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            Bán kết nữ 2: Phan Đình Phùng 46-27 Việt Đức
+                            
+                                ĐKVĐ Phan Đình Phùng thắng Việt Đức 46-27 ở trận bán kết thứ hai giải bóng rổ Trẻ VnExpress, hôm 30/11.

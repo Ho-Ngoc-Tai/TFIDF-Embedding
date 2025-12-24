@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+underthesea
+gensim
+joblib
+fastapi
+uvicorn[standard]
+pydantic

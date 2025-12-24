@@ -1,0 +1,66 @@
+Theo WSJ, không như nhiều nơi trên thế giới, robot được triển khai khá hạn chế tại nơi công cộng ở Mỹ. Nguyên nhân là mức giá đắt đỏ, phải hoạt động trong môi trường có kiểm soát chặt chẽ, bên cạnh vấn đề an toàn, an ninh.Số liệu năm 2023 và 2024 của Liên đoàn Robot Quốc tế (IFR) cho thấy, việc áp dụng robot nói chung tại Mỹ thấp hơn nhiều so với châu Á, nhất là Trung Quốc. Thực tế ở Mỹ, robot tập trung cao nhất tại nhà máy sản xuất và khu công nghiệp nặng. Trong khi đó, nó được ứng dụng trong đời sống chủ yếu tại bệnh viện, nhà hàng, quản lý kho bãi... và ít xuất hiện trên đường phố.Tuy nhiên, một số thành phố bắt đầu ứng dụng robot, chủ yếu theo hướng thân thiện, kín đáo, tạo sự an toàn cho con người. Từ tháng 3/2024, Sở Cứu hỏa thành phố Kansas triển khai robot chữa cháy có khả năng cung cấp nhiều nước hơn hầu hết xe cứu hỏa, trong khi giúp lính cứu hỏa tránh xa môi trường nguy hiểm. Robot sử dụng bánh xe tương tự xe tăng để vượt nhiều địa hình, kích thước bằng ôtô cỡ nhỏ, có thể phun 9.500 lít nước mỗi phút."Đến nay, robot được triển khai nhiều lần, chủ yếu để chữa cháy quy mô lớn", Benjamin Schloegel, người phụ trách bộ phận máy bay không người lái (drone) và robot của Sở Cứu hỏa thành phố Kansas (KCFD), cho biết. "Lượng khói lan khắp khu dân cư trong mỗi vụ cháy giảm rất nhiều, bởi robot có thể đến nơi xảy ra đám cháy và dập lửa nhanh".
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Robot cứu hỏa của Sở Cứu hỏa thành phố Kansas. Ảnh: KCFD
+
+Sở Cứu hỏa thành phố Kansas hiện vận hành kết hợp robot điều khiển từ xa cùng với drone, giúp lính cứu hỏa vạch ra lộ trình chữa cháy tốt nhất. Robot trang bị bốn camera nhiệt và camera ánh sáng khả kiến, một lưỡi dao phía trước để đẩy xe và một tời để dọn đường. Robot cũng có thể đưa người bị thương ra khỏi vùng nguy hiểm hoặc cứu hộ hoang dã.Trong khi đó, thành phố Irvine (California) triển khai 5 robot từ cuối tháng 8 với nhiệm vụ đánh giá toàn diện cơ sở hạ tầng công cộng. Dự án nhằm xác định việc tuân thủ Đạo luật Người Khuyết tật Mỹ, vốn dự kiến mất bốn năm hoàn thành nếu để hai nhân viên thực hiện hoàn toàn. Theo ông Vu Tran, kỹ sư xây dựng và phụ trách vận hành robot, việc áp dụng máy móc giúp tiến độ thực hiện rút ngắn xuống 6 tháng. Robot đang đo đạc hơn 9.000 con dốc, hơn 15 km vỉa hè, 400 điểm dừng phương tiện công cộng và hơn 112 km đường nhựa. Các cỗ máy liên tục ghi lại chi tiết như độ dốc ngang đường, vỉa hè bị nâng lên hay không, cũng như số lượng và kích thước vết nứt.Quảng cáo"Robot cung cấp chi tiết hơn nhiều so với việc kiểm tra truyền thống", ông Tran nói. "Trong khi con người thường đo đạc ở khoảng cách mỗi 3 mét, robot sẽ đo đạc sau mỗi vài cm".Cũng theo người này, robot hoạt động trong giờ hành chính, nhưng có thể "làm thêm". Cỗ máy hoạt động 12 tiếng sau mỗi lần sạc. Thách thức với robot chính là sự tò mò của người qua đường, vì nó được lập trình để dừng lại khi có người đi bộ đến gần. "Một số người thường đứng gần để chụp ảnh, gây chậm trễ", Tran nói thêm.Trong khi đó, thành phố Sanford ở Bắc Carolina triển khai 10 robot cắt cỏ trên diện tích khoảng 24.000 m2 tại tòa thị chính và các tháp nước gần đó. Robot hoạt động 23 tiếng mỗi ngày, cắt cỏ liên tục theo lịch trình đã được lập trình sẵn và tự động quay trở lại trạm sạc khi cần.Brian Flynn, thuộc bộ phận quản lý đất đai của thành phố Sanford, cho biết robot mang lại nhiều lợi ích vượt xa việc tiết kiệm nhân công. Chúng cải thiện an toàn bằng cách đưa công nhân ra khỏi sườn dốc tiềm ẩn nguy hiểm, nơi trước đó máy cắt cỏ truyền thống từng hoạt động. Việc cắt cỏ thường xuyên cũng giúp giảm tình trạng tích tụ rơm rạ, đồng thời tạo thảm cỏ dày và khỏe hơn, giảm sử dụng thuốc trừ sâu.Tại Detroit, chính quyền thành phố cũng đưa robot dọn dẹp bãi biển tại Belle Isle. Chúng có khả năng dọn sạch tới 3.000 m2 mỗi giờ bằng cách xới cát để lọc rác. Robot được điều khiển từ xa. Theo Tim Slusser, người phụ trách vận hành, đơn vị đang tính đến khả năng tích hợp tính năng tự hành.Detroit cũng có một robot khác hoạt động dưới nước, có thể lọc 90 kg rác thải mỗi ngày từ các dòng suối và bến du thuyền trên đảo. Rác sau đó đưa đến nơi tập kết, phân loại bằng máy móc trước khi mang đi xử lý.
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+Video Player is loading.XemHiện tại 0:00/Thời lượng 1:53Đã tải: 0%0:00Tiến trình: 0%Tắt tiếng Tỷ lệ phát lại1xChương mụcChương mụcDescriptionsdescriptions off, selectedAudio TrackBật phụ đềSubtitles settings, opens Subtitles settings dialogTắt phụ đề, selectedToàn màn hìnhThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
+
+
+
+Một số mẫu robot được ứng dụng tại các thành phố ở Mỹ
+
+
+
+
+
+Một số mẫu robot được triển khai tại các thành phố Mỹ.
+Một số nơi khác cũng dự định đưa robot vào vận hành. Thư viện Arapahoe, hệ thống thư viện công cộng ở Colorado, có kế hoạch triển khai robot bốn bánh ở cơ sở Englewood với nhiệm vụ giúp khách tham quan di chuyển, cũng như là "người gác cổng" khi nhân viên không có mặt.Theo Howtogeek, robot có tiềm năng lớn, đặc biệt trong việc cải thiện dịch vụ đô thị, giao thông và cơ sở hạ tầng. Dù vậy, báo cáo của Elsevier tháng 4 cho thấy, việc áp dụng robot nơi công cộng tại Mỹ gặp nhiều vấn đề, như hạ tầng đô thị chưa chuẩn hóa để robot di chuyển tự chủ hoàn toàn, hay khung pháp lý, quyền sử dụng không gian công cộng (vỉa hè, đường đi bộ) và trách nhiệm khi xảy ra sự cố vẫn là rào cản lớn. Ngoài ra, chưa có dữ liệu chi tiết theo từng thành phố, nên việc áp dụng mô hình robot quy mô lớn vẫn cần thời gian và đầu tư.Bảo Lâm tổng hợpAmazon có thể không cần tuyển 600.000 nhân viên nhờ robot
+
+
+59
+
+Robot giao đồ ăn - xu hướng mới ở đại học Mỹ
+
+
+33
+
+Cobot - cỗ máy giúp đẩy nhanh quá trình 'hồi sinh' sản xuất Mỹ
+
+
+100
+
+Trung Quốc triển khai robot mới nhiều gấp 10 lần Mỹ
+
+
+129

@@ -1,0 +1,44 @@
+Kết quả do các nhà nghiên cứu tại DexAI, Đại học Sapienza ở Rome và trường nghiên cứu Sant'Anna ở Italy công bố trên Arxiv. Trong thử nghiệm, nhóm đã sử dụng "thơ đối kháng" (adversarial poetry) làm "bước đột nhập đơn giản" và qua mặt hệ thống an toàn của các chatbot như ChatGPT.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Một số ứng dụng AI tạo sinh trên điện thoại, gồm Copilot, DeepSeek, Gemini, AI Hay, ChatGPT, Grok. Ảnh: Lưu Quý
+
+Cụ thể, nhà nghiên cứu thu thập lời nhắc lệnh "độc hại" mà khi nhập vào, các mô hình ngôn ngữ lớn (LLM) vốn sẽ trả lời "không", chẳng hạn yêu cầu hướng dẫn cách chế tạo bom, thuốc nổ. Nhưng thay vì dùng prompt dạng câu lệnh văn xuôi, nhóm sử dụng chatbot để chuyển thành thơ, sau đó sao chép và dán vào khung truy vấn của một chatbot khác.Những bài thơ được trau chuốt câu từ tỉ mỉ, nhưng câu lệnh về bản chất không thay đổi nội dung. Dù vậy, lúc này AI đã không còn đưa ra cảnh báo như khi viết bằng văn xuôi.Quảng cáoCác nhà nghiên cứu cho biết đã sử dụng hơn 1.200 bài thơ với một loạt chủ đề như tội phạm bạo lực và tình dục, tự tử, tự gây thương tích, xâm phạm quyền riêng tư, phỉ báng, thậm chí vũ khí hóa học. Tỷ lệ trung bình LLM bị "qua mặt" là 65%, trong đó cao nhất đến từ sản phẩm của OpenAI, Google, Meta, xAI, Anthropic, DeepSeek với tỷ lệ 90%. Claude của Anthropic tỏ ra kháng cự tốt khi chỉ "mắc bẫy" 5,24%. Ngoài ra, lời nhắc chứa nội dung liên quan đến hướng dẫn tấn công chèn mã, bẻ khóa mật khẩu và trích xuất dữ liệu "đặc biệt hiệu quả".Nhóm nghiên cứu nói với Futurism, LLM có thể bị đánh lừa khá dễ dàng miễn là có cách tiếp cận mới mẻ mà công ty đứng sau không lường trước được.Đầu năm nay, nghiên cứu của Cisco cho thấy, DeepSeek R1 của DeepSeek bị lời nhắc độc hại "qua mặt 100%". Trong khi đó, mô hình Llama 3.1 405B của Meta cũng có tỷ lệ bị lời nhắc độc hại vượt qua 96%, còn GPT-4o của OpenAI là 86%. Mô hình Claude 3.5 Sonet của Claude và O1-preview của OpenAI đã chặn được phần lớn, với tỷ lệ lần lượt 36% và 26%.Bảo Lâm (Arxiv, Futurism, PCWorld)ChatGPT 'nhầm lẫn giữa sự thật và niềm tin'
+
+
+41
+
+Viễn cảnh 'Internet chết'
+
+
+21
+
+Chatbot AI đang thay thế các trang đánh giá
+
+
+22
+
+Nguy cơ nội dung bị đầu độc để 'hack' chatbot AI
+
+
+4
+
+Chatbot AI có thể khiến não người lười vận động
+
+
+22

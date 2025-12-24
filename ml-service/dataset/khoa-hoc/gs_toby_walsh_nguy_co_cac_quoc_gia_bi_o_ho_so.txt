@@ -1,0 +1,61 @@
+Lo ngại được GS Toby Walsh, Đại học New South Wales (Australia) - một trong những tiếng nói ảnh hưởng toàn cầu về AI chia sẻ bên lề Tuần lễ khoa học VinFuture 2025 chiều 2/12.Ông cho rằng nhiều quốc gia đang phát triển từng bị đô hộ về mặt vật lý khi mà dữ liệu trở thành loại tài nguyên mới. Khi không chủ động kiểm soát, đó là lúc các quốc gia này đối mặt với 'đô hộ số'.Phân tích thêm, ông nhận định, giá trị và văn hóa của Việt Nam khác với Australia, Trung Quốc và Mỹ. "Chúng ta không thể trông chờ các công ty công nghệ từ Trung Quốc hay Mỹ tự động bảo vệ văn hóa, ngôn ngữ Việt Nam. Những điều đó phải do chính Việt Nam chủ động bảo vệ", ông nói, cho rằng việc xây dựng luật AI là bước đi quan trọng để giữ tự chủ.Theo ông, mỗi quốc gia đều có giá trị và văn hóa riêng và cần luật pháp để bảo vệ những giá trị này. Do đó, ông "rất vui" khi thấy Việt Nam là một trong số quốc gia tiên phong trong việc xây dựng luật chuyên biệt về trí tuệ nhân tạo.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Toby Walsh - Giáo sư về Trí tuệ nhân tạo tại Đại học New South Wales (Australia), thành viên trong danh sách nhân vật có sức ảnh hưởng trong lĩnh vực AI toàn cầu. Ảnh: Loan Trần
+
+Trách nhiệm của nhà phát triển AITheo Giáo sư Walsh, không thể trông chờ vào thiện chí của thị trường, bởi lợi nhuận quá lớn từ AI có thể đẩy doanh nghiệp vượt qua giới hạn đạo đức. Cách duy nhất để đảm bảo họ luôn có hành vi đúng đắn là áp dụng các quy định nghiêm ngặt, để lợi ích cộng đồng cân bằng với lợi ích thương mại. "Việc sử dụng AI có trách nhiệm nên là bắt buộc", ông nhận định.Ông dẫn ví dụ về hệ thống AI dùng trong việc đánh giá khả năng tái phạm và đưa ra đề xuất phạt tù ở Mỹ. Do được huấn luyện từ dữ liệu lịch sử, mô hình này vô tình phản ánh định kiến chủng tộc trong quá khứ, dẫn đến đề xuất mức án nặng hơn với người da đen. "Không thể để hệ thống như vậy quyết định bỏ tù ai đó", ông nói.Khác với con người, không thể bắt AI chịu trách nhiệm khi mắc sai lầm. Nhưng giờ đây, khi AI đóng vai trò là một "tác nhân" mới, có thể ra quyết định và thực hiện hành động, nếu được con người cho phép, câu hỏi đặt ra là ai sẽ chịu trách nhiệm nếu AI mắc sai lầm?
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+Video Player is loading.XemHiện tại 0:00/Thời lượng 0:27Đã tải: 0%0:00Tiến trình: 0%Tắt tiếng Tỷ lệ phát lại1xChương mụcChương mụcDescriptionsdescriptions off, selectedAudio TrackToàn màn hìnhThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
+
+
+
+Robot Unitree H1 'nổi điên' tấn công kỹ sư
+
+
+
+
+
+Khoảnh khắc robot Unitree H1 tấn công kỹ sư khiến một người bị thương nhẹ. Video:X/OSINTdefender
+GS Walsh cho rằng trách nhiệm này thuộc về các công ty triển khai và vận hành hệ thống AI. "Phải bắt họ gánh trách nhiệm về hậu quả mà những "cỗ máy" này gây ra", ông bày tỏ quan điểm.Theo ông, rủi ro sức khỏe tinh thần từ AI không phải là lý thuyết. Ông nhắc đến các vụ kiện ở Mỹ, nơi phụ huynh cáo buộc các công ty công nghệ khiến con cái họ tự tử sau khi tương tác với chatbot. Lượng người dùng ChatGPT gặp vấn đề về sức khỏe tâm thần, dù "chỉ vài phần trăm", cũng tương đương với hàng trăm nghìn người.Với trẻ nhỏ, ông cho rằng bài học từ mạng xã hội vẫn chưa được rút ra đầy đủ. Một số nước, trong đó có Australia, đã hạn chế độ tuổi dùng mạng xã hội. Đây là điều mà các quốc gia đang soạn thảo luật, cần cân nhắc áp dụng với AI.Trong bối cảnh Việt Nam đang hoàn thiện Luật AI, ông cho rằng nhiều quy định hiện hành như luật về quyền riêng tư, luật cạnh tranh vẫn có thể áp dụng cho không gian số. Để tránh mặt trái của AI, lời khuyên của giáo sư là đầu tư vào con người, nâng cao kỹ năng, hiểu biết về AI cho mọi người dân, song song với việc phát triển hệ sinh thái trong nước. "Hãy chủ động. Đừng chờ các quốc gia khác chuyển giao công nghệ hay định hướng", ông đề xuất.Dự thảo Luật AI của Việt Nam được xây dựng hiện nêu tám nguyên tắc cơ bản, trong đó quan trọng nhất là "lấy con người làm trung tâm", đảm bảo AI tôn trọng nhân phẩm, quyền riêng tư và giá trị văn hóa. Dự thảo luật cũng phân loại công nghệ này theo bốn mức rủi ro. Nhóm rủi ro không chấp nhận được, gồm các hệ thống thao túng hành vi, tấn công nhóm yếu thế, sản xuất nội dung giả mạo gây nguy hại an ninh quốc gia hoặc hỗ trợ hành vi vi phạm pháp luật, bị đề xuất cấm phát triển và lưu hành.Theo Bộ Khoa học và Công nghệ, tinh thần của luật không phải siết chặt quản lý, mà tạo hành lang pháp lý "thông thoáng và an toàn" để thúc đẩy phát triển. Song song với việc hoàn thiện luật, Việt Nam đồng thời đẩy mạnh đầu tư hạ tầng tính toán, nguồn lực tài chính và đào tạo nhân lực AI.Trọng ĐạtViệt Nam sẽ có Trung tâm siêu tính toán AI quốc gia
+
+
+23
+
+5 cuốn sách giúp hiểu và ứng dụng AI
+
+
+2
+
+Chuyên gia lo người trẻ 'rỗng não' vì AI
+
+
+54

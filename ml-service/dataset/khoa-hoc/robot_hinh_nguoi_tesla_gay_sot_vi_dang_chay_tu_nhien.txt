@@ -1,0 +1,76 @@
+Tesla hôm 3/12 đăng trên X video robot Optimus chạy bộ kèm theo mô tả "Một kỷ lục hiệu suất mới trong phòng thí nghiệm". Đoạn clip về thành tích mới nhất của robot hình người thu hút 37,4 triệu lượt xem chỉ trong hai ngày.Đoạn clip cho thấy Optimus tiến bộ đáng kể về khả năng giữ thăng bằng, phối hợp các bộ phận cơ thể và kiểm soát dáng đi. Những màn trình diễn trước đó chủ yếu tập trung vào việc thể hiện robot đã thành thạo các kỹ năng cơ bản như đi bộ có kiểm soát, xử lý đồ vật và rèn luyện tư thế.Tài khoản Nic Cruz Patane cũng đăng video trên X cho thấy sự tiến bộ của robot từ tháng 5/2023, khi thực hiện những bước đi đầu tiên trong một nhà máy, đến tháng 12/2025.
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+Video Player is loading.XemHiện tại 0:00/Thời lượng 0:10Đã tải: 0%0:00Tiến trình: 0%Tắt tiếng Tỷ lệ phát lại1xChương mụcChương mụcDescriptionsdescriptions off, selectedAudio TrackToàn màn hìnhThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
+
+
+
+Robot hình người Tesla gây sốt vì dáng chạy tự nhiên
+
+
+
+
+
+So sánh những bước di chuyển của robot hình người Optimus tháng 5/2023 và tháng 12/2025. Video: X/Nic Cruz Patane
+Scott Walter, cố vấn công nghệ tại công ty Visual Components, phân tích kỹ đoạn phim để ước tính tốc độ của Optimus. Ông dùng những robot đứng yên phía sau làm tham chiếu để xác định quãng đường chạy dài 6,5 m, thời gian chạy là khoảng 1,71 giây. Kết quả tính toán cho thấy, robot di chuyển khoảng 3,8 m mỗi giây (3,8 m/s), hay 13,7 km/h.Nếu ước tính này chính xác, Optimus đã có bước tiến đáng kể so với những màn trình diễn trước đó. Theo Humanoids Daily, tốc độ này tương đương với những robot hình người nhanh nhất thế giới, vượt qua STAR1 của startup RobotEra (Trung Quốc) với tốc độ 3,6 m/s và H1 của Unitree (Trung Quốc) với tốc độ 3,3 m/s.Quảng cáoNgoài tốc độ, cơ chế dáng đi được thể hiện trong video đánh dấu cột mốc kỹ thuật quan trọng. Đi bộ được định nghĩa là luôn giữ ít nhất một chân tiếp xúc với mặt đất, trong khi chạy cần tạo ra đủ lực đẩy theo phương thẳng đứng để nâng cơ thể lên không trung, tạo ra khoảnh khắc cả hai chân cùng không chạm đất. Điều này dẫn đến mất ổn định, đòi hỏi phản ứng nhanh hơn nhiều để tránh bị ngã.Optimus cao khoảng 173 cm, nặng 57 kg. Một số nguồn tin cho biết, robot có hơn 40 bậc tự do, bao gồm bàn tay linh hoạt với 11 bậc tự do, được thiết kế để tương tác giống con người. Robot trang bị pin 2,3 kWh, cho phép hoạt động gần như cả ngày với hiệu suất năng lượng ấn tượng - chỉ tiêu thụ 100 W khi không di chuyển và 500 W khi đi bộ.Theo Tesla, Optimus vẫn đang trong quá trình phát triển tích cực và dự kiến sớm được đưa vào sản xuất hàng loạt. Trước đó, Elon Musk ước tính, khi mở rộng quy mô sản xuất, giá robot có thể đạt khoảng 20.000-30.000 USD. Musk cũng hé lộ tầm nhìn sản xuất đầy tham vọng của Tesla dựa trên công nghệ "tự sao chép". Ông khẳng định, trong tương lai gần, robot có thể chế tạo các robot khác, gần như loại bỏ sự tham gia của con người trong nhiều khâu của dây chuyền sản xuất.Thu Thảo (Theo Interesting Engineering, Humanoids Daily)
+                    
+                        
+                        
+                            
+                                
+                                
+        
+            
+        
+                                
+                                
+                            
+                            Video đội quân robot hình người Trung Quốc gây tranh cãi
+                            
+                                Video hàng trăm robot hình người di chuyển đồng bộ, thể hiện trình độ phát triển và năng lực sản xuất tiên tiến, bị nghi ngờ về tính xác thực.
+                                
+                                    
+        
+	        
+            208
+        
+        
+                                
+                            
+                        
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            Robot hình người 'chăm chỉ nhất' ở Mỹ
+                            
+                                Agility Robotics cho biết robot hình người Digit đã vận chuyển hơn 100.000 thùng hàng tại GXO Logistics, cho thấy giá trị thực tiễn của robot trong nhà máy.
+                                
+                                    
+        
+	        
+            70

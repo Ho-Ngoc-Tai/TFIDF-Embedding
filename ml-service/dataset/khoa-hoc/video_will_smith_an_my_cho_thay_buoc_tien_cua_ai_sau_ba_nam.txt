@@ -1,0 +1,62 @@
+Video Player is loading.XemHiện tại 0:00/Thời lượng 0:39Đã tải: 0%0:00Tiến trình: 0%Tắt tiếng Tỷ lệ phát lại1xChương mụcChương mụcDescriptionsdescriptions off, selectedAudio TrackToàn màn hìnhThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
+
+
+
+Video 'Will Smith ăn mỳ' cho thấy bước tiến của AI sau ba năm
+
+
+
+
+
+Hình ảnh Will Smith ăn mỳ tạo bằng AI biến đổi qua các năm 2023, 2024 và 2025.
+Đầu 2023, người dùng Reddit chia sẻ loạt video Will Smith ăn mỳ được tạo bằng ModelScope - mô hình chuyển văn bản thành video. Hình ảnh được đánh giá "rất tệ" khi nam diễn viên trông như một nhân vật hoạt hình thiếu chỉn chu với những đường nét khuôn mặt xộc xệch.Những video khi đó thể hiện rõ hạn chế của hình ảnh AI tạo sinh thời kỳ đầu. Chúng thường xuyên gặp lỗi như tạo người có 8 ngón tay hoặc những sai lệch về mặt giải phẫu khác.Quảng cáoWill Smith cũng đăng video TikTok so sánh video AI năm 2023 và 2024 về ông. Mô hình MiniMax của Trung Quốc năm 2024 đã mô phỏng chính xác hơn, dù động tác nhai của nam diễn viên vẫn kỳ quặc và những sợi mỳ trông như lơ lửng ở cuối clip.Đến tháng 5 năm nay, nhà phát triển ứng dụng AI Javi Lopez đăng trên X video với mô hình Veo 3 của Google, thể hiện sự hài hòa về hình ảnh, nhưng tiếng nhai lại nghe "quá giòn". Theo Ars Technica, lỗi này có thể do dữ liệu dùng để đào tạo của Google có nhiều ví dụ về miệng nhai kèm theo hiệu ứng âm thanh giòn tan.Tháng 10, tài khoản AI Search chia sẻ video tạo bằng Veo 3.1 trên X, trông chân thực hơn, đồng thời khắc phục vấn đề âm thanh bất hợp lý. So với những video đầu tiên về Will Smith, AI được đánh giá đã tiến bộ đáng kể.Hiện tại, việc vượt qua bài thử nghiệm ăn mỳ có thể khó khăn hơn vì Hollywood đang nỗ lực ngăn các công ty AI vi phạm bản quyền, như sử dụng hình ảnh của người nổi tiếng. Tháng 9, Disney, Universal, Warner Bros và các đơn vị nắm giữ bản quyền khác đã kiện MiniMax lên tòa án liên bang. Tại Washington, một số nhà lập pháp cũng lo sợ vì AI có thể làm video giả lời nói và hành động của họ.Nỗi lo tin giả ngày càng trở nên lớn hơn trong bối cảnh cuộc đua phát triển công cụ tạo video AI diễn ra quyết liệt. Các nhà phát triển liên tục tung ra giải pháp mới như TikTok phát hành AI Alive biến ảnh tĩnh thành video hồi tháng 5, xAI ra trình chuyển đổi văn bản thành video Grok Imagine vào tháng 7, hay Sora 2 của OpenAI trình làng ngày 30/9.Thu Thảo (Theo Business Insider, Ars Technica)
+                    
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            Khó chịu vì video 'rác' tạo bằng AI
+                            
+                                Video tạo bằng AI xuất hiện tràn lan trên Facebook, TikTok, YouTube khiến nhiều người cảm thấy khó chịu, phản cảm, bên cạnh nỗi lo tin giả.
+                                
+                                    
+        
+	        
+            89
+        
+        
+                                
+                            
+                        
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            OpenAI triển khai công cụ tạo video Sora 2 tại Việt Nam
+                            
+                                Sáng 30/10, OpenAI cho biết Việt Nam là một trong những thị trường châu Á đầu tiên được triển khai Sora 2, cùng với Thái Lan và đảo Đài Loan.
+                                
+                                    
+        
+	        
+            17

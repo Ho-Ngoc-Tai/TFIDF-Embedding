@@ -1,0 +1,76 @@
+Brett Adcock, CEO công ty Figure AI, hôm 5/12 đăng lên mạng xã hội video ngắn hé lộ sự nhanh nhẹn ấn tượng của Figure 03. Adcock cho biết, bộ điều khiển của robot vận hành nhờ mạng neuron tích hợp do nhóm Helix phát triển. Helix là mô hình Thị giác - Ngôn ngữ - Hành động (VLA) tổng quát được Figure AI công bố hồi tháng 2.
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+Video Player is loading.PlayCurrent Time 0:00/Duration 0:07Loaded: 0%0:00Progress: 0%Mute Playback Rate1xChaptersChaptersDescriptionsdescriptions off, selectedAudio TrackFullscreenThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
+
+
+
+Robot hình người Mỹ chạy gần giống con người
+
+
+
+
+
+Robot hình người Figure 03 chạy, đổi hướng và phanh gấp. Video: Instagram/Brett Adcock
+Những chuyển động của Figure 03 trong video mới thách thức quan niệm phổ biến rằng robot hình người đa năng chậm chạp và nặng nề. Suốt nhiều năm, điểm yếu của chúng là không có khả năng di chuyển nhanh. Nhiều nhà sản xuất không công bố tốc độ đi bộ tối đa vì con số này thường không ấn tượng.AdvertisementTốc độ của Figure 03 theo công bố trước đó là khoảng 4,3 km/h. Các robot cạnh tranh như Digit của Agility Robotics hay Phoenix của Sanctuary AI có tốc độ đi bộ tối đa trong khoảng 4,8-6,5 km/h.Trong đoạn clip mới, Adcock cho biết Figure 03 di chuyển với tốc độ tương đương người chạy, khoảng 10,5 km/h. Điều ấn tượng là có lúc robot nhấc cả hai chân lên khỏi mặt đất, đúng theo định nghĩa về chạy, cho thấy khả năng giữ ổn định đặc biệt tốt. Ngoài ra, robot cũng có thể giảm tốc và đổi hướng nhanh chóng, thể hiện tiến bộ lớn về hệ thống điều khiển và cơ cấu truyền động mô-men xoắn cao.Vài ngày trước, Optimus, robot hình người của nhà sản xuất xe điện Tesla, cũng gây sốt khi chạy giống người với tốc độ nhanh, ước tính khoảng 13,7 km/h hay 3,8 m mỗi giây (3,8 m/s). Theo Humanoids Daily, tốc độ này tương đương những robot hình người nhanh nhất thế giới, vượt qua STAR1 của startup RobotEra (Trung Quốc) với tốc độ 3,6 m/s và H1 của Unitree (Trung Quốc) với tốc độ 3,3 m/s.Figure 03 được thiết kế để đưa vào sản xuất hàng loạt, sẵn sàng hoạt động trong gia đình và cả môi trường công nghiệp. Robot cao 173 cm, là phiên bản nâng cấp của Figure 02 với hệ thống cảm biến nhạy hơn, vẻ ngoài mềm mại và khả năng phối hợp tốt hơn. Với khối lượng nhẹ hơn 9% và thể tích giảm đáng kể so với Figure 02, robot thế hệ mới chuyển động dễ dàng hơn nhiều, đặc biệt là trong môi trường gia đình.Figure 03 sở hữu bàn tay mềm mại và linh hoạt, trang bị cảm biến đầu ngón tay giúp phát hiện áp lực cực nhẹ, chỉ 3 gram, xấp xỉ trọng lượng một chiếc kẹp giấy. Độ nhạy cao cho phép robot cầm nắm những vật dụng mỏng manh như đồ thủy tinh một cách an toàn, hạn chế việc chúng bị trượt khỏi tay.Thu Thảo (Theo Forbes, Interesting Engineering)
+                    
+                        
+                        
+                            
+                                
+                                
+        
+            
+        
+                                
+                                
+                            
+                            Video đội quân robot hình người Trung Quốc gây tranh cãi
+                            
+                                Video hàng trăm robot hình người di chuyển đồng bộ, thể hiện trình độ phát triển và năng lực sản xuất tiên tiến, bị nghi ngờ về tính xác thực.
+                                
+                                    
+        
+	        
+            200
+        
+        
+                                
+                            
+                        
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            Robot hình người 'chăm chỉ nhất' ở Mỹ
+                            
+                                Agility Robotics cho biết robot hình người Digit đã vận chuyển hơn 100.000 thùng hàng tại GXO Logistics, cho thấy giá trị thực tiễn của robot trong nhà máy.
+                                
+                                    
+        
+	        
+            70

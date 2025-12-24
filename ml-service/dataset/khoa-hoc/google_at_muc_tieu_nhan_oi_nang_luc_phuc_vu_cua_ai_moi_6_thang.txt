@@ -1,0 +1,21 @@
+Theo CNBC, tại cuộc họp toàn công ty trong tháng 11, Amin Vahdat, Phó chủ tịch mảng Google Cloud, trình bày bài thuyết trình AI Infrastructure (Hạ tầng AI), trong đó có một slide về "nhu cầu tính toán AI" với dòng chữ: "Giờ chúng ta phải tăng gấp đôi mỗi 6 tháng, đạt mức tăng 1.000 lần trong 4-5 năm tới".Ông Vahdat đánh giá hạ tầng AI là phần quan trọng và đắt đỏ nhất trong cuộc đua công nghệ. Tuy nhiên, thách thức không nằm ở số tiền, mà là giải quyết bài toán hiệu suất. Ông lưu ý mục tiêu của Google phải được thực hiện trong khi vẫn giữ nguyên chi phí và mức tiêu thụ điện. Theo Tom's Guide, điều này cho thấy một tương lai đầy thách thức: vừa tăng năng lực ở quy mô khổng lồ, vừa phải cải thiện hiệu quả vận hành một cách tương ứng.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Giao diện AI Overview của Google trên smartphone. Ảnh: Bảo Lâm
+
+Để giải quyết, Google đang thực hiện cùng lúc hai chiến lược: mở rộng các trung tâm dữ liệu và giảm phụ thuộc vào bên thứ ba như Nvidia. Tình trạng thiếu hụt chip thời gian qua làm chậm tiến độ triển khai một số tính năng AI của Google và hãng đang đẩy mạnh phát triển các bộ xử lý riêng. Thế hệ TPU thứ 7 mang tên Ironwood được Google tuyên bố tiết kiệm năng lượng gấp 30 lần so với TPU đầu tiên ra mắt năm 2018.Trong cuộc họp, Sundar Pichai, CEO Alphabet, dự báo 2026 là một năm "cực kỳ khốc liệt" do áp lực cạnh tranh. Trước những lo ngại thị trường đang rơi vào thời kỳ bong bóng AI, Pichai giữ vững quan điểm: "Rủi ro của việc đầu tư không đủ lớn hơn nhiều so với rủi ro đầu tư quá mức".Quảng cáoGoogle cũng vừa ra mắt Gemini 3 với khả năng phản hồi những câu hỏi phức tạp tốt hơn so với các mô hình trước. Pichai cho biết sự thiếu hụt năng lực tính toán đang trực tiếp kìm hãm việc ra mắt sản phẩm. Ông lấy ví dụ: "Nếu đủ năng lực tính toán, chúng ta có thể đưa công cụ tạo video Veo đến tay nhiều người dùng hơn trên ứng dụng Gemini, thay vì bị giới hạn như hiện nay". Ông cũng nhắc đến mảng điện toán đám mây tăng trưởng 34%, đạt doanh thu 15 tỷ USD trong quý vừa qua, nhưng "lẽ ra còn cao hơn nhiều nếu có thêm năng lực tính toán".Thông tin trên được đưa ra sau khi Alphabet nâng dự báo chi phí vốn năm 2025 lên mức 91-93 tỷ USD. Nhóm công ty công nghệ lớn gồm Google, Microsoft, Amazon và Meta dự kiến chi tổng cộng khoảng 380 tỷ USD năm nay, chủ yếu dành cho AI. Anat Ashkenazi, Giám đốc tài chính Google, khẳng định công ty có nền tảng tài chính vững mạnh để duy trì đà tăng trưởng, tin rằng "cơ hội trước mắt rất lớn và không thể bỏ lỡ".Huy Đức (theo Tom's Guide, CNBC)

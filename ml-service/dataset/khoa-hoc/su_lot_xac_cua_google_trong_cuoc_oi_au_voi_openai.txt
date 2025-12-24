@@ -1,0 +1,34 @@
+Cuối tuần qua, công ty nghiên cứu Prolific (Anh) công bố bảng xếp hạng những mô hình AI tốt nhất. Google có bốn mô hình trong top 10, với Gemini 2.5 Pro ở vị trí số một, Gemini 2.5 Flash thứ 6, Gemma thứ 9 và Gemini 2.0 Flash xếp thứ 10. Danh sách chưa có Gemini 3 do mới ra mắt, hiện được đánh giá thông minh hơn với khả năng đọc hiểu tình huống. ChatGPT của OpenAI đứng thứ 8, thấp hơn DeepSeek v3 (thứ 2), Magistral Medium của Mistral (thứ 3), hay hai mô hình Grok 4 và Grok 3 của xAI (thứ 4 và 5).Theo LiveMint, bảng xếp hạng chỉ mang tính chất tham khảo, chưa thể hiện toàn cảnh về mô hình trí tuệ nhân tạo, nhưng phần nào cho thấy OpenAI đang dần bị đối thủ đi sau vượt qua, nhất là Google.Hãng dịch vụ tìm kiếm Mỹ đang nhận hàng loạt tín hiệu tích cực sau khi ra mắt Gemini 3 tuần trước. Cổ phiếu công ty tức tăng mạnh với vốn hóa lên gần 4.000 tỷ USD, đưa nhà đồng sáng lập Larry Page vượt Jeff Bezos và Larry Ellison để giàu thứ hai thế giới, theo bảng xếp hạng tỷ phú Bloomberg Billionaires Index.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Minh họa Google "đối đầu" OpenAI. Ảnh: Google Gemini
+
+"Gã khổng lồ thức giấc" Trong thư gửi cổ đông năm 2016 sau khi nhậm chức CEO, Sundar Pichai tuyên bố Google sẽ chuyển sang "thế giới AI hàng đầu". Những năm tiếp theo, công ty tập trung vào nghiên cứu trí tuệ nhân tạo, nhưng được đánh giá chậm chạp và quá thận trọng.Mọi thứ thay đổi vào cuối 2022, khi OpenAI bất ngờ tung ra ChatGPT. Chatbot lập tức trở gây sốt toàn cầu. Một số nhân viên Google nói với Business Insider, các bộ phận khi đó "trải qua cảm giác vừa thất vọng vừa nhẹ nhõm". Một nhóm chuyên nghiên cứu tỏ ra thất vọng vì thua một startup, nhưng những nhóm khác lại coi đó là "phát súng khởi đầu cho cuộc đua AI" và "tín hiệu đèn xanh buộc Google phải tung ra AI của riêng mình".Quảng cáoLà công ty hàng đầu thế giới, Google không thiếu trí tuệ hay công nghệ. Đội ngũ Google DeepMind đã thử nghiệm nhiều mô hình ngôn ngữ lớn (LLM) trước khi ChatGPT xuất hiện. Tuy nhiên khi đó, ban lãnh đạo không đồng ý tung ra thị trường vì lo ngại việc phát hành một chatbot thiên kiến hoặc nhiều lỗi sẽ gây ra phản ứng dữ dội."Chúng tôi có sản phẩm nhưng lúc đó chưa có ý định công khai rộng rãi", một cựu nhân viên DeepMind nói. "LLM đó rất thú vị, nhưng nhiều thiếu sót và chưa đủ hữu ích". Tuy nhiên, điều khiến lãnh đạo Google ngạc nhiên là hầu hết người dùng không quá quan tâm đến các lỗi của ChatGPT. Đây được xem là "bước đi sai lầm" của công ty tìm kiếm.Một nhân viên khác kể, các nhóm bắt đầu đẩy nhanh quá trình phát triển chatbot có tên Sparrow, nhưng bị đánh giá kém an toàn hơn so với ChatGPT. Cuối cùng, dự án bị hủy bỏ khi Google sáp nhập DeepMind với phòng thí nghiệm AI nội bộ Brain, tập trung toàn bộ vào Gemini.Kể từ đó, Gemini ngày càng tiến bộ. Theo Fortune, nhóm chuyên gia phân tích của DA Davidson đánh giá Gemini 3 là "mô hình mạnh mẽ nhất tính đến nay". Bank of America Securities cũng nhận định đây là "bước tiến tích cực để Google tạo ra khoảng cách hiệu suất LLM".Nhờ hệ sinh thái lớn, Google liên tiếp tích hợp AI vào các sản phẩm như Search, YouTube, Android. Trong ba năm qua, công ty được đánh giá liên tục lột xác, "tự phá vỡ chính mình". Trong báo cáo tài chính quý III/2025 cuối tháng 10, hãng lần đầu đạt doanh thu quý 100 tỷ USD. Mảng điện toán đám mây, từ lâu bị Amazon và Microsoft bỏ xa, đang tăng tốc mạnh mẽ. Chip AI chuyên dụng, vốn là nỗ lực nội bộ trong nhiều năm, đột nhiên có sức hút lớn nhờ nhu cầu bùng nổ về sức mạnh tính toán.Trong khi đó, OpenAI bị đánh giá đuối sức trước một Google vươn lên mạnh mẽ. Jim Cramer, người dẫn chương trình Mad Money của CNBC, cho rằng sau thời gian bùng nổ, công ty sở hữu ChatGPT bắt đầu có dấu hiệu "đi ngang". CEO Sam Altman đang đặt tham vọng lớn ở nhiều mảng như tìm kiếm, mạng xã hội, đám mây, doanh nghiệp... nhưng không dễ dàng vì Google đều mạnh hơn. Do đó Cramer thậm chí hình dung ba kịch bản cho OpenAI: được chính phủ Mỹ bảo trợ, bị Microsoft thâu tóm hoặc có thể sụp đổ.Quân bài AI OverviewsTheo Emarketer, thị phần quảng cáo tìm kiếm của Google, hiện chiếm hơn 80%, sẽ lần đầu giảm xuống dưới 50% vào năm tới, do người dùng chuyển sang truy vấn bằng AI.Theo Similarweb vào tháng 6, tra cứu bằng AI đang thay thế 10% lượt truy cập từ công cụ tìm kiếm truyền thống. Google cũng đã phản ứng nhanh với xu hướng khi triển khai AI Overviews giúp tóm tắt nhanh kết quả ở đầu trang. Với các truy vấn có Overviews, 23% bấm tiếp vào các đường link kết quả. Còn nếu không có, tỷ lệ click đạt 36%."Khi LLM có thể kiếm tiền từ khả năng tìm kiếm của mình, Google sẽ đánh mất thị phần, dù tốc độ chậm", Oscar Orozco của Emarketer nhận định.Trả lời WSJ, Giám đốc Google Search Liz Reid thừa nhận những thay đổi về AI của công ty khiến lưu lượng truy cập vào một số website giảm. Tuy nhiên, tổng lượt truy vấn lại tăng vì cách làm mới giúp người dùng dễ tìm câu trả lời hơn.Lily Ray, Phó chủ tịch công ty nghiên cứu SEO Amsive, đánh giá việc Google sử dụng chiến lược "AI-first" sẽ khiến nhà xuất bản và nhà sáng tạo nội dung khó kiếm tiền hơn, dẫn đến Overviews không có nhiều nguồn dữ liệu để đưa ra câu trả lời chất lượng.Theo Bank of America Securities, dù còn một số thách thức, chỉ số tích cực của AI Overviews và Gemini cho thấy Google đang thành công trong việc thu hút người dùng vào các nền tảng AI.Business Insider đánh giá, sau ba năm kể từ khi ChatGPT ra đời, Google đã cho thế giới thấy cách họ thích nghi để bảo vệ nguồn thu cốt lõi. Tính năng tìm kiếm AI mới giúp người dùng tiếp cận nội dung phù hợp hơn và các truy vấn tiếp tục tăng trưởng qua từng năm. Hãng cũng đưa ra hàng loạt công cụ giúp người dùng có thể đặt các truy vấn sản phẩm cụ thể hơn, tạo danh sách mua sắm và so sánh sản phẩm, đưa AI sâu hơn vào các sản phẩm như Gmail, YouTube... để tăng tính tiện dụng."Google có người dùng. Chừng nào còn tiếp tục tung ra sản phẩm mới, không ai có thể sánh được với sức mạnh phân phối của họ", một cựu giám đốc Google nói với Business Insider. "Google sẽ chiến thắng bất kể kịch bản nào".Bảo Lâm tổng hợpTạo chữ trong ảnh - thách thức của AI vừa được Google giải quyết
+
+
+7
+
+Google ra Gemini 3 - mô hình AI có khả năng đọc hiểu tình huống
+
+
+40
+
+Chip Google lập bản đồ phân tử nhanh gấp 13.000 lần siêu máy tính
+
+
+30

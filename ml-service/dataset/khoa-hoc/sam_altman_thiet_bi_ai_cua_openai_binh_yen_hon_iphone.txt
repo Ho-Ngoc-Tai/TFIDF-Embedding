@@ -1,0 +1,71 @@
+Trong sự kiện Demo Day lần thứ 9 của Emerson Collective tại San Francisco ngày 25/11, Sam Altman và Jony Ive, cựu giám đốc thiết kế Apple, hé lộ thêm về sản phẩm phần cứng do OpenAI và công ty thiết kế IO của Ive phát triển.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Jony Ive (trái) và Sam Altman. Ảnh: LoveFrom
+
+Sản phẩm hiện đã có nguyên mẫu, nhưng cả hai không mô tả thiết kế mà tập trung nói về cảm giác khi sử dụng. Altman so sánh thiết bị với iPhone, gọi điện thoại thông minh Apple là "thành tựu đỉnh cao của sản phẩm tiêu dùng". Tuy nhiên, ông đánh giá thiết bị công nghệ hiện đại đầy rẫy sự phân tâm."Khi tôi sử dụng thiết bị hoặc hầu hết ứng dụng hiện tại, tôi có cảm giác như đi bộ qua Quảng trường Thời đại ở New York, liên tục phải đối phó với những điều nhỏ nhặt gây khó chịu như đèn nhấp nháy vào mặt, người va vào tôi. Đó là cảm giác bất an", ông nói.Quảng cáoTheo ông, các thông báo nhấp nháy và ứng dụng mạng xã hội gây nghiện chính là điểm yếu của thiết bị di động ngày nay. Trong khi đó, thiết bị AI của OpenAI sẽ mang lại cảm giác như "ngồi trong căn nhà gỗ đẹp nhất bên hồ, trên núi, tận hưởng sự bình yên, tĩnh lặng".Ông chủ ChatGPT cho biết sản phẩm có khả năng lọc thông tin, cho phép người dùng tin tưởng để AI thực hiện các tác vụ trong thời gian dài. Nó cũng nhận thức theo ngữ cảnh tốt để biết khi nào nên trình bày thông tin hoặc yêu cầu người dùng nhập liệu."Bạn tin tưởng nó theo thời gian, và nó thực sự có nhận thức theo ngữ cảnh đáng kinh ngạc về toàn bộ cuộc sống của bạn", Altman khẳng định. Ông cũng dự đoán người dùng sẽ phản ứng khi lần đầu nhìn thấy thiết bị, kiểu: "Chỉ có thế thôi ư?... Nó thật đơn giản".Trong khi đó, Jony Ive cho biết "Tôi thích những giải pháp có vẻ ngây thơ trong sự đơn giản của chúng. Tôi cũng thích những sản phẩm cực kỳ thông minh, tinh vi mà bạn muốn chạm vào, không thấy sợ hãi, muốn sử dụng gần như vô tư, gần như không cần suy nghĩ".Ông xác nhận thiết bị sẽ ra mắt trong vòng hai năm tới.Trước đó, WSJ đưa tin thiết bị hợp tác giữa OpenAI và Jony Ive có kích thước gần bằng smartphone, cho phép người dùng giao tiếp qua camera, micro và loa, có thể đặt trên bàn làm việc hoặc mang theo. Máy trang bị nhiều cảm biến để ghi nhận môi trường xung quanh, đồng thời tương tác với người dùng để xây dựng bộ dữ liệu cá nhân hóa.Hồi tháng 5, OpenAI mua lại IO - công ty khởi nghiệp do Ive và Altman đồng sáng lập với giá 6,5 tỷ USD. Công ty được giới thiệu là "tập hợp các kỹ sư phần cứng và phần mềm giỏi nhất" để phát triển và sản xuất thiết bị AI. Khi IO sáp nhập vào OpenAI, Ive đảm nhận thiết kế sâu và sáng tạo cho sản phẩm trong tương lai.Huy Đức (theo TechCrunch, WSJ)
+                    
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            OpenAI và Jony Ive gặp khó khi tạo thiết bị AI
+                            
+                                OpenAI và nhà thiết kế Jony Ive được cho là đối mặt với một số thách thức kỹ thuật khi phát triển thiết bị không màn hình tích hợp AI.
+                                
+                                    
+        
+	        
+            20
+        
+        
+                                
+                            
+                        
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            Tài liệu tòa án hé lộ thiết bị AI của OpenAI và Jony Ive
+                            
+                                Tài liệu tòa án về vụ kiện liên quan đến thương hiệu "io" của nhà thiết kế Jony Ive và OpenAI đã hé lộ sản phẩm phần cứng AI của hai bên.
+                                
+                                    
+        
+	        
+            5

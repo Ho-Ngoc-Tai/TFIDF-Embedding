@@ -1,0 +1,21 @@
+Những ngày qua, nhiều bài đăng trên X cảnh báo người dùng Gmail cần tắt tính năng thông minh như kiểm tra chính tả, nếu không muốn nội dung email và tệp đính kèm bị khai thác để đào tạo Gemini.Tài khoản X Dave Jones đăng ảnh chụp màn hình cài đặt trong Gmail, trong đó có nội dung: "Khi bật chế độ cài đặt này, bạn đồng ý cho phép Gmail, Chat và Meet sử dụng nội dung và dữ liệu về hoạt động của bạn trong các sản phẩm này để cung cấp tính năng thông minh và cá nhân hóa trải nghiệm cho bạn".Lo ngại bùng lên trong bối cảnh Google vừa ra mắt Gemini 3 với khả năng đọc hiểu tình huống và tích hợp sâu AI vào hệ sinh thái Workspace
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Mục tính năng thông minh trong Gmail. Ảnh chụp màn hình
+
+Jenny Thomson, phát ngôn viên của Google, trả lời The Verge: "Những báo cáo này gây hiểu lầm. Chúng tôi không thay đổi cài đặt của bất kỳ ai. Các tính năng thông minh của Gmail đã tồn tại nhiều năm và chúng tôi hoàn toàn không sử dụng nội dung Gmail của người dùng để đào tạo mô hình AI".Theo Google, việc bật tính năng thông minh cho phép hệ thống thực hiện các tác vụ như tự động theo dõi đơn hàng, thêm lịch trình chuyến bay từ email vào lịch. Trong phần cài đặt, Google nêu rõ khi kích hoạt, người dùng đồng ý để Google Workspace sử dụng nội dung và hoạt động để "cá nhân hóa trải nghiệm". Tuy nhiên, hãng nhấn mạnh điều đó "không đồng nghĩa với việc giao dữ liệu email để huấn luyện các mô hình AI chung".Hãng tuyên bố sẽ thông báo minh bạch nếu có bất kỳ thay đổi lớn nào trong hệ thống đào tạo AI. Tuy nhiên, The Verge khuyến nghị người dùng vẫn nên xem lại cài đặt quyền riêng tư của mình, sau khi một biên tập viên của trang phát hiện tài khoản của mình bị tự động bật lại tính năng thông minh dù đã tắt trước đó.Huy Đức (theo Tom's Hardware, The Verge)

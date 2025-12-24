@@ -1,0 +1,102 @@
+{
+  "generated_at": "2025-12-23T10:58:19.386482Z",
+  "data_summary": {
+    "total_samples": 1095,
+    "labels": {
+      "du-lich": 113,
+      "giao-duc": 208,
+      "khoa-hoc": 224,
+      "kinh-doanh": 89,
+      "phap-luat": 178,
+      "suc-khoe": 143,
+      "the-gioi": 44,
+      "the-thao": 96
+    },
+    "train_samples": 876,
+    "test_samples": 219,
+    "categories": [
+      "du-lich",
+      "giao-duc",
+      "khoa-hoc",
+      "kinh-doanh",
+      "phap-luat",
+      "suc-khoe",
+      "the-gioi",
+      "the-thao"
+    ]
+  },
+  "results": [
+    {
+      "representation": "TF-IDF",
+      "classifier": "Rocchio",
+      "accuracy": 0.8127853881278538,
+      "precision_macro": 0.8145344026655388,
+      "recall_macro": 0.779444135060045,
+      "f1_macro": 0.7877190088117559
+    },
+    {
+      "representation": "TF-IDF",
+      "classifier": "KNN (k=5)",
+      "accuracy": 0.8538812785388128,
+      "precision_macro": 0.8335411751488597,
+      "recall_macro": 0.806365060103972,
+      "f1_macro": 0.8121968888545612
+    },
+    {
+      "representation": "TF-IDF",
+      "classifier": "Naive Bayes",
+      "accuracy": 0.7534246575342466,
+      "precision_macro": 0.7336073573573574,
+      "recall_macro": 0.628916772129248,
+      "f1_macro": 0.6251398365647052
+    },
+    {
+      "representation": "Word2Vec",
+      "classifier": "Rocchio",
+      "accuracy": 0.680365296803653,
+      "precision_macro": 0.6772170716112531,
+      "recall_macro": 0.6860199053386077,
+      "f1_macro": 0.656592528021428
+    },
+    {
+      "representation": "Word2Vec",
+      "classifier": "KNN (k=5)",
+      "accuracy": 0.8721461187214612,
+      "precision_macro": 0.8829006044690695,
+      "recall_macro": 0.8477657738005501,
+      "f1_macro": 0.8580071692415604
+    },
+    {
+      "representation": "Word2Vec",
+      "classifier": "Naive Bayes",
+      "accuracy": 0.726027397260274,
+      "precision_macro": 0.7197858718666983,
+      "recall_macro": 0.7275809482782296,
+      "f1_macro": 0.7092637517678579
+    },
+    {
+      "representation": "Doc2Vec",
+      "classifier": "Rocchio",
+      "accuracy": 0.8127853881278538,
+      "precision_macro": 0.7795553856699368,
+      "recall_macro": 0.8179750877357947,
+      "f1_macro": 0.7879846561085928
+    },
+    {
+      "representation": "Doc2Vec",
+      "classifier": "KNN (k=5)",
+      "accuracy": 0.8310502283105022,
+      "precision_macro": 0.8195913316970889,
+      "recall_macro": 0.7964514861891752,
+      "f1_macro": 0.8054203286635858
+    },
+    {
+      "representation": "Doc2Vec",
+      "classifier": "Naive Bayes",
+      "accuracy": 0.7214611872146118,
+      "precision_macro": 0.7099218142338606,
+      "recall_macro": 0.6723005829287814,
+      "f1_macro": 0.6696568517424233
+    }
+  ]
+}

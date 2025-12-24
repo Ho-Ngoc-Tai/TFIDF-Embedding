@@ -1,0 +1,21 @@
+Trong danh sách nhà cung cấp phần mềm bảo mật tương thích dành cho người dùng Windows, được Microsoft công bố ngày 1/12, CyRadar EDR của công ty CyRadar là một trong hai thương hiệu Việt có tên trong top 9 cùng với Bkav và các sản phẩm đến từ thương hiệu toàn cầu lâu năm như Norton, McAfee hay Avira.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Phần mô tả hệ điều hành Windows 11 hiển thị trên một mẫu laptop. Ảnh: Future
+
+Microsoft cập nhật danh sách hằng năm với bộ tiêu chí riêng. Các nhà cung cấp phải chứng minh khả năng tương thích sâu với hệ điều hành Windows thông qua việc tuân thủ yêu cầu về API và Kernel Mode Drivers, cũng như vượt qua những thử nghiệm liên quan đến hiệu năng và độ ổn định hệ thống. Microsoft chỉ ghi nhận sản phẩm đạt chứng nhận chất lượng từ những phòng thí nghiệm quốc tế độc lập và duy trì tỷ lệ phát hiện sai ở mức rất thấp nhằm bảo đảm trải nghiệm người dùng.Năm nay, bộ tiêu chí của Microsoft cũng thay đổi theo hướng rút gọn số lượng nhà cung cấp nhằm tăng chất lượng. Năm ngoái, hãng liệt kê 15 nhà cung cấp và CyRadar cũng có tên, trong khi năm nay giảm còn 9 nhà cung cấp. Theo ông Nguyễn Minh Đức, nhà sáng lập kiêm CEO CyRadar, việc giảm số lượng cho thấy xu hướng siết chặt tiêu chuẩn đánh giá toàn cầu. Trong bối cảnh đó, việc một doanh nghiệp Việt Nam duy trì vị trí giúp khẳng định năng lực cạnh tranh quốc tế và tiềm năng vươn lên của ngành an ninh mạng trong nước, đủ sức cạnh tranh với những nhà cung cấp hàng đầu.CyRadar thành lập năm 2017, do tập đoàn FPT đầu tư phát triển, định vị là nhà cung cấp giải pháp an ninh mạng thế hệ mới, tập trung vào việc phát hiện sớm và ngăn chặn mối đe dọa trong hệ thống của doanh nghiệp và cơ quan Nhà nước. Công nghệ của công ty cho phép nhận diện dấu hiệu bất thường tại thiết bị đầu cuối, cảnh báo sớm nguy cơ tấn công và bảo vệ trước mã độc lan truyền qua Internet, email hay những kỹ thuật lừa đảo trực tuyến tinh vi.Hai năm qua, CyRadar nâng cấp sản phẩm theo hướng tăng cường phòng thủ chủ động và bám sát chuỗi hành động tấn công thực tế. Công ty tích hợp mô hình học máy, phân tích hành vi để phát hiện những hình thức tấn công tinh vi như mã độc đa hình hay tấn công không file. Riêng CyRadar EDR được tinh chỉnh để đồng bộ hoàn toàn với khung MITRE ATT&CK - chiến thuật và kỹ thuật của tác nhân đe dọa tấn công mạng dựa trên quan sát thực tế - qua đó bao quát và ngăn chặn những kỹ thuật hacker đang sử dụng.CyRadar EDR hiện bảo vệ hơn 8.000 máy trạm tại các cơ quan và doanh nghiệp trong nước. Nhiều tổ chức triển khai sản phẩm trên hàng nghìn thiết bị, gồm một số đơn vị cấp tỉnh ở Đồng Nai, Bình Phước hay hệ thống y tế Medlatec, được đánh giá hoạt động ổn định trong môi trường có yêu cầu bảo mật cao và quy mô lớn. Các giải pháp bảo mật của công ty cũng đã phát hiện hơn 50 triệu tệp tin và đường dẫn bất thường, đồng thời được giới thiệu tại nhiều thị trường như Anh, Pháp, Mỹ, Hàn Quốc và Nhật Bản.Bảo Lâm

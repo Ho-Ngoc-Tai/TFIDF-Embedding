@@ -1,0 +1,54 @@
+Tại sự kiện công nghệ an ninh do đơn vị này tổ chức, chiều 26/11, Thượng tá Nguyễn Đình Tuấn, Phó tổng giám đốc MobiFone, cho rằng hệ thống an ninh vật lý tại Việt Nam, gồm camera, lưu trữ, phần mềm xử lý, phần mềm nhúng ứng dụng AI, phát triển nhanh nhưng còn phân tán. Bài toán của những hệ thống này là thiếu chuẩn chung, thiếu tính liên thông, chưa theo kịp yêu cầu giám sát, phản ứng thời gian thực. "Việc tối ưu vận hành, tích hợp dữ liệu và đảm bảo chủ động về rủi ro cho hệ thống an ninh vật lý trở thành nhu cầu cấp thiết", ông nói.Trong bối cảnh đó, MobiFone hướng tới hình thành giải pháp an ninh tích hợp, thông minh và sẵn sàng mở rộng theo quy mô quốc gia. Đơn vị xác định đây là một trong những trụ cột chiến lược trong hệ sinh thái viễn thông - công nghệ - chuyển đổi số đang xây dựng.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Kỹ sư thao tác điều khiển hoạt động của camera an ninh. Ảnh: Minh Sơn
+
+Ông Vũ Kiêm Văn, Tổng giám đốc MobiFone Global, mô tả sự phát triển của ngành an ninh qua ba giai đoạn: rời rạc, tích hợp và dự báo. Giai đoạn rời rạc khiến mỗi nơi dùng một hệ thống riêng. Bốn năm gần đây, thế giới chuyển sang mô hình tích hợp, cho phép giảm nhân lực và chi phí."Giai đoạn tiếp theo là dự báo. Hệ thống sẽ phân tích dữ liệu, nhận diện nguy cơ và tự động kích hoạt phản ứng, giúp giảm phụ thuộc vào trực gác thủ công", ông cho hay.Về thực trạng trong nước, ông cho biết nhiều dự án được xây dựng theo nhu cầu phát sinh nên thiếu thiết kế tổng thể. Khi hạ tầng mở rộng, cách tiếp cận này không còn phù hợp. Các lớp bảo vệ, từ cảm biến, camera đến hệ thống cảnh báo, cần được đặt trên một nền tảng chung để nâng hiệu quả giám sát.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Tổng giám đốc MobiFone Global Vũ Kiêm Văn. Ảnh: Minh Sơn
+
+Tại hội thảo, MobiFone Global giới thiệu mô hình an ninh vật lý đa tầng do đơn vị phát triển, gồm lớp giám sát biên , lớp phân tích - quản trị trung tâm, hệ thống cảnh báo hợp nhất và cơ chế điều phối phản ứng.Các thành phần của mô hình được thiết kế để có thể mở rộng theo nhu cầu của từng tổ chức. Đại diện đơn vị cho biết, mục tiêu là tạo ra nền tảng an ninh vật lý thống nhất, chuẩn hóa và tối ưu vận hành trong bối cảnh nhu cầu an ninh tăng nhanh tại Việt Nam.Quảng cáoTheo Grand View Research, quy mô thị trường an ninh vật lý toàn cầu năm 2025 là 158,14 tỷ USD và được dự đoán tăng lên 216 tỷ USD vào năm 2030. Tại Việt Nam, số liệu 2024 của IMARC cho thấy quy mô thị trường ở mức 526,4 triệu USD, có thể tăng lên 1,94 tỷ USD vào năm 2033.Trọng ĐạtAn ninh mạng Việt Nam: Đẩy mạnh nhân lực để đối phó tội phạm mạng
+
+
+2
+
+Ra mắt hệ sinh thái camera Make in Viet Nam
+
+
+2
+
+Tự chủ sản xuất chip để bảo đảm an ninh công nghệ Việt Nam
+
+
+1

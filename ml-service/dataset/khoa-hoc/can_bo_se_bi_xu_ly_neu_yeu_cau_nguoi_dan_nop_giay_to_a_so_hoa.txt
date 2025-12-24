@@ -1,0 +1,87 @@
+Sáng 11/12, Quốc hội thông qua Luật Chuyển đổi số, trong đó quy định cơ quan nhà nước cung cấp dịch vụ công trực tuyến thống nhất, tập trung từ trung ương đến địa phương trên Cổng dịch vụ công quốc gia và Ứng dụng định danh quốc gia.Các thủ tục hành chính được cung cấp mặc định theo hình thức dịch vụ công trực tuyến toàn trình. Hình thức dịch vụ công trực tuyến một phần chỉ sử dụng trong trường hợp pháp luật có quy định khác hoặc trong trường hợp gặp sự cố kỹ thuật chưa thể khắc phục ngay. Trong tình huống hệ thống gặp lỗi, cơ quan cung cấp dịch vụ phải có phương án thực hiện trực tiếp để bảo đảm quyền lợi người dân.Cơ quan nhà nước có trách nhiệm hướng dẫn, hỗ trợ người dân trong quá trình thực hiện dịch vụ; công khai quy trình, đảm bảo thời hạn xử lý và kết quả xử lý. Luật quy định xử lý theo pháp luật liên quan đối với cán bộ, công chức, viên chức, người lao động khi yêu cầu nộp thêm giấy tờ trong trường hợp hệ thống thông tin phục vụ giải quyết thủ tục hành chính đã kết nối, khai thác, sử dụng được dữ liệu từ các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành.Cơ quan thực hiện dịch vụ công trực tuyến có trách nhiệm giải trình và công bố lỗi kỹ thuật nếu hồ sơ bị chậm hoặc bị từ chối do sự cố hệ thống.Luật cũng đặt ra yêu cầu tăng cường kết nối, chia sẻ, tích hợp và sử dụng lại dữ liệu ngay từ đầu để hạn chế trùng lặp, giảm giấy tờ và nâng cao hiệu quả giải quyết thủ tục hành chính. Đây là nền tảng giúp cơ quan nhà nước không được phép yêu cầu người dân cung cấp lại các loại giấy tờ đã có trong cơ sở dữ liệu.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Bộ trưởng Bộ Khoa học và Công nghệ Nguyễn Mạnh Hùng báo cáo về dự luật trước khi Quốc hội thông qua. Ảnh: Hoàng Phong
+
+Bộ trưởng Bộ Khoa học và Công nghệ Nguyễn Mạnh Hùng cho biết Luật Chuyển đổi số được thiết kế theo hướng Luật khung, quy định các nguyên tắc, chính sách chung về chuyển đổi số, kiến trúc số, trách nhiệm của các chủ thể tham gia chuyển đổi số. Điều này nhằm đảm bảo mọi hoạt động chuyển đổi số trên phạm vi toàn quốc diễn ra thống nhất, an toàn và hiệu quả, khắc phục tình trạng cát cứ.Luật tạo ra sự liên kết các luật chuyên ngành về chuyển đổi số để hình thành một thể thống nhất, liên thông, toàn diện, an toàn và hiện đại về một quốc gia số, nhưng không can thiệp vào bên trong các luật chuyên ngành. Luật cũng tháo gỡ các khó khăn chung về chuyển đổi số của các cơ quan trung ương và địa phương, nhất là về thủ tục hành chính.Tiếp thu ý kiến của các đại biểu Quốc hội, luật đã hoàn thiện các khái niệm quan trọng nhất của chuyển đổi số như chuyển đổi số, hạ tầng số, dữ liệu số, hệ thống số, nền tảng số, môi trường số, Chính phủ số, kinh tế số và xã hội số. Chuyển đổi số được xác định là quá trình chuyển đổi phương thức hoạt động, quản trị và cung cấp dịch vụ trên môi trường số, là "làm công việc cũ theo cách mới" dựa trên công nghệ và dữ liệu.Cơ quan nhà nước có trách nhiệm kết nối, chia sẻ, khai thác dữ liệu từ cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành và hệ thống thông tin của cơ quan khác để giải quyết thủ tục hành chính, cung cấp dịch vụ công trực tuyến, bảo đảm liên thông xuyên suốt, không phân mảnh giữa trung ương và địa phương.Hệ thống thông tin giải quyết thủ tục hành chính và cung cấp dịch vụ công trực tuyến phải được thiết kế để đo lường, giám sát chất lượng dịch vụ theo thời gian thực, bao gồm tốc độ, tính ổn định, khả năng xử lý, mức độ tự động hóa, trải nghiệm người sử dụng và an ninh mạng.Chất lượng dịch vụ công trực tuyến được cải thiện liên tục dựa trên kết quả đánh giá độc lập, khảo sát người sử dụng và dữ liệu thực tế. Bộ trưởng Bộ Khoa học và Công nghệ ban hành tiêu chuẩn, quy chuẩn, yêu cầu kỹ thuật đối với dịch vụ công trực tuyến; hướng dẫn phương pháp đo lường, đánh giá và công bố chất lượng dịch vụ.Cơ quan cung cấp dịch vụ công trực tuyến phải bảo đảm người sử dụng dễ dàng tiếp cận và truy cập, bao gồm người khuyết tật, người cao tuổi, trẻ em, người dân sinh sống ở khu vực biên giới, hải đảo, vùng đồng bào dân tộc thiểu số và miền núi.Luật quy định quyền con người, quyền công dân được công nhận, tôn trọng, bảo vệ; được bảo vệ dữ liệu cá nhân; được lựa chọn sử dụng hoặc ngừng sử dụng sản phẩm, dịch vụ số; không bị áp đặt điều kiện bất hợp lý hoặc bị phân biệt đối xử khi sử dụng sản phẩm, dịch vụ số.Luật có hiệu lực từ 1/7/2026.Sơn Hà
+                    
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            Khai báo một lần cho tất cả dịch vụ công
+                            
+                                Bộ trưởng Nguyễn Mạnh Hùng nói Luật Chuyển đổi số áp dụng nguyên tắc khai báo một lần, dữ liệu liên thông giúp người dân giảm giấy tờ và dùng dịch vụ công thuận tiện.
+                                
+                                    
+        
+	        
+            17
+        
+        
+                                
+                            
+                        
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            Sẽ giám sát chất lượng dịch vụ công bằng phản hồi của người dân
+                            
+                                Hệ thống cung cấp dịch vụ công trực tuyến sẽ được thiết kế để tự động đo lường, giám sát chất lượng dựa trên phản hồi người dùng, bảo đảm an toàn và an ninh mạng.
+                                
+                                    
+        
+	        
+            26
+        
+        
+                                
+                            
+                        
+                        
+                    
+
+.box-wg-guicauhoi{background:#fff;border:1px solid #e5e5e5;border-radius:4px;padding:16px}.box-wg-guicauhoi .start-step{width:100%;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.box-wg-guicauhoi .txt-start{-ms-flex-negative:1;flex-shrink:1;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;padding-right:20px}.box-wg-guicauhoi .txt-start .title-tv{font:700 18px/160% Merriweather,serif}.box-wg-guicauhoi .txt-start .txt{color:#626262;font-size:16px;margin-top:4px;line-height:140%}.box-wg-guicauhoi .txt-start .txt a{color:#074d94;text-decoration:underline}.box-wg-guicauhoi .btn_vne{background:#c92a57;padding:0 24px;display:inline-block;border-radius:4px;font-size:16px;-ms-flex-negative:0;flex-shrink:0}
+
+
+
+Góp ý kiến tạo
+Bạn có thể đặt mọi câu hỏi, vấn đề về Khoa học công nghệ, Đổi mới sáng tạo, Chuyển đổi số trực tiếp cho Bộ Khoa học và Công nghệ
+
+Gửi góp ý

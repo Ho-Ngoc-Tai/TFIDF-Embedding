@@ -1,0 +1,65 @@
+Sáng 28/11, Văn phòng Bộ Khoa học và Công nghệ tổ chức chia sẻ kinh nghiệm với 15 bộ, ngành và các đơn vị trong Bộ nhằm tăng kết nối và cải thiện khả năng phối hợp giữa các văn phòng bộ, ngành trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo.Ông Hà Minh Hiệp, Chánh Văn phòng Bộ Khoa học và Công nghệ, dẫn số liệu từ cuộc khảo sát nhanh tại chỗ, cho biết việc chia sẻ thông tin nghiệp vụ giữa các văn phòng thời gian qua còn hạn chế, chủ yếu dựa vào quan hệ cá nhân. Lý do là một số đơn vị thiếu dữ liệu để tham mưu, số khác là do quy trình sử dụng văn bản liên thông giữa các đơn vị không đồng nhất... khiến việc phối hợp chưa thật sự trôi chảy.Bên cạnh đó, nhiều đại biểu cho biết họ gặp khó trong chuyển đổi số công tác văn phòng, nhất là tự động hóa báo cáo và quản lý công việc, nên muốn học hỏi kinh nghiệm từ Bộ Khoa học và Công nghệ cùng các đơn vị khác.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Chánh Văn phòng Bộ Khoa học và Công nghệ Hà Minh Hiệp (bên phải) phát biểu tại hội thảo sáng 28/11. Ảnh: Trọng Đạt
+
+Chia sẻ tại hội thảo, ông Hiệp cho biết Văn phòng Bộ đã xây dựng hệ thống báo cáo tự động kết nối với các Sở Khoa học và Công nghệ địa phương. Hệ thống tích hợp AI để trích xuất thông tin từ báo cáo, giúp rút ngắn thời gian xử lý. "Đây là hạt nhân trong công tác chuyển đổi số của Văn phòng Bộ", ông nói.Hiện Văn phòng Bộ Khoa học và Công nghệ sử dụng nền tảng điều hành One MST để đăng ký lịch công tác, phòng họp, phương tiện, quản lý văn bản, theo dõi nhiệm vụ và báo cáo trực tuyến. Đại diện Văn phòng Bộ cho hay, hơn 5.200 cán bộ, công chức đã được cấp tài khoản, trong đó 81,5% sử dụng thường xuyên. "Hệ thống ghi nhận hơn 10.000 lượt truy cập mỗi ngày. Toàn bộ đơn vị thuộc Bộ đều đang xử lý công việc trên nền tảng", vị này nói. Các thông báo nhắc thời hạn công việc được gửi tự động, giúp cán bộ chủ động tiến độ. Nền tảng góp phần xây dựng môi trường làm việc minh bạch, giảm thời gian xử lý và chi phí vận hành.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Nền tảng quản lý điều hành One MST của Bộ Khoa học và Công nghệ được giới thiệu tại hội thảo. Ảnh: Trọng Đạt
+
+Nhiều bộ, ngành bày tỏ sự quan tâm đến nền tảng này. Đại diện Bộ Văn hóa, Thể thao và Du lịch đánh giá cao khả năng tích hợp và đo lường KPI của One MST, bày tỏ mong muốn được tiếp cận công nghệ mới.Đại diện Bộ Giáo dục và Đào tạo nêu khó khăn về thiếu nhân lực IT, trong khi Bộ Quốc phòng cho biết đang sử dụng hệ thống nhắc việc tương tự nhưng có thêm tính năng ghi âm để tạo biên bản cuộc họp.Quảng cáoÔng Đỗ Đình Rô, Phó chánh Văn phòng Bộ Khoa học và Công nghệ cho biết sẵn sàng chia sẻ kinh nghiệm chuyển đổi số với các bộ, ngành. Việc tăng kết nối giữa các văn phòng sẽ là bước quan trọng để nâng cao hiệu quả phối hợp trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo thời gian tới.Trọng Đạt Bộ Khoa học và Công nghệ quản lý đề tài, nhiệm vụ trên hệ thống trực tuyến
+
+
+1
+
+Đề xuất 6 sản phẩm công nghệ chiến lược 'triển khai ngay'
+
+
+5
+
+Khuyến khích nghiên cứu giải pháp sinh kế thích ứng biến đổi khí hậu
+
+
+2
+
+
+
+.box-wg-guicauhoi{background:#fff;border:1px solid #e5e5e5;border-radius:4px;padding:16px}.box-wg-guicauhoi .start-step{width:100%;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.box-wg-guicauhoi .txt-start{-ms-flex-negative:1;flex-shrink:1;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;padding-right:20px}.box-wg-guicauhoi .txt-start .title-tv{font:700 18px/160% Merriweather,serif}.box-wg-guicauhoi .txt-start .txt{color:#626262;font-size:16px;margin-top:4px;line-height:140%}.box-wg-guicauhoi .txt-start .txt a{color:#074d94;text-decoration:underline}.box-wg-guicauhoi .btn_vne{background:#c92a57;padding:0 24px;display:inline-block;border-radius:4px;font-size:16px;-ms-flex-negative:0;flex-shrink:0}
+
+
+
+Góp ý kiến tạo
+Bạn có thể đặt mọi câu hỏi, vấn đề về Khoa học công nghệ, Đổi mới sáng tạo, Chuyển đổi số trực tiếp cho Bộ Khoa học và Công nghệ
+
+Gửi góp ý

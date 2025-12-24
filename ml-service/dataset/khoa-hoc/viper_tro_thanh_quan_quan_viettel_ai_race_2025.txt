@@ -1,0 +1,61 @@
+Vòng chung kết diễn ra trong ba ngày, bắt đầu từ 1/12, quy tụ sáu đội có điểm số cao nhất từ vòng online gồm Viper, OpenCubee-TriRL, UET, MsHuongs-Students, Train4Ever và Spark. Các đội phải giải quyết ba đề thi, đại diện cho ba hướng nghiên cứu trọng điểm: tối ưu năng lượng mạng 5G, xử lý tri thức từ văn bản kỹ thuật và thị giác máy tính trong logistics, các lĩnh vực nền tảng của quá trình xây dựng hạ tầng số quốc gia.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Các đội vào chung kết gặp mặt tại trụ sở Viettel trước vòng hackathon (Hà Nội). Ảnh: Viettel
+
+Ngày đầu, các đội tiếp cận hạ tầng tính toán, GPU Cloud và bộ công cụ kỹ thuật Viettel cung cấp, đồng thời trao đổi với đội ngũ cố vấn để hoàn thiện thuật toán trước vòng hackathon.Ngày 2/12, vòng hackathon diễn ra liên tục tám giờ tại Học viện Viettel. Các đội xây dựng mô hình AI hoàn chỉnh, chạy thử trên dữ liệu kiểm thử và bảo vệ phương pháp trước hội đồng chuyên môn. Bài thi được đánh giá dựa trên tốc độ xử lý, tư duy logic, khả năng ra quyết định trong thời gian giới hạn và mức độ ổn định khi vận hành trên dữ liệu thực tế.Đội Viper gồm ba kỹ sư trẻ đến từ ba miền Bắc, Trung, Nam, chỉ quen biết nhau bốn tháng trước cuộc thi. Họ có xuất phát điểm khác nhau nhưng chung đam mê AI và mong muốn chinh phục các bài toán khó.Đội không khởi động sớm, chỉ tham gia khi vòng online bước sang giai đoạn ba. Ở vòng cuối, họ đặt mục tiêu duy trì lợi thế ở bài toán tối ưu năng lượng 5G - lĩnh vực gắn với công việc hằng ngày, đồng thời cải thiện kết quả ở hai đề thi còn lại.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Đội Viper nhận giải nhất Viettel AI Race 2025. Ảnh: Viettel
+
+"Việc vào chung kết là điều bất ngờ với cả nhóm, nhưng đó là minh chứng rằng trong AI, tốc độ không quan trọng bằng khả năng bứt phá đúng thời điểm", đại diện đội chia sẻ.Kết quả cuối, Viper đứng đầu bài toán tối ưu năng lượng cho mạng 5G, UET dẫn đầu đề thi xử lý văn bản kỹ thuật, Spark đạt kết quả cao nhất ở bài toán định vị 3D bưu kiện. Với tổng điểm cao nhất cả ba đề, Viper trở thành quán quân Viettel AI Race 2025.Cuộc thi kết thúc với hội thảo "Mô hình toán học trong việc ra quyết định dựa trên dữ liệu", diễn ra ngày 3/12, do PGS TS Hà Minh Hoàng trình bày, cung cấp góc nhìn về Decision Intelligence, phương pháp được áp dụng trong cả ba đề thi của cuộc thi. Sau đó, ban tổ chức trao các hạng mục phụ gồm giải Đại sứ, giải Tiên phong, Women in Tech và các giải nhất, khuyến khích theo từng đề thi.Viettel AI Race 2025 là sân chơi thường niên do Tập đoàn Công nghiệp – Viễn thông Quân đội (Viettel) tổ chức, tạo cơ hội cho các tài năng trẻ ứng dụng trí tuệ nhân tạo (AI) vào giải quyết bài toán thực tiễn và cập nhật những xu hướng công nghệ mới.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Ông Nguyễn Đạt, Phó tổng giám đốc tập đoàn Viettel phát biểu tại buổi trao giải. Ảnh: Viettel
+
+Lần đầu tổ chức năm 2023, Viettel AI Race thu hút 1.285 thí sinh, trong đó có 94 thí sinh đạt giải quốc gia và quốc tế. Theo ban tổ chức, đây không chỉ là cuộc thi công nghệ mà còn hướng tới xây dựng đội ngũ nhân lực AI chất lượng cao cho Viettel và Việt Nam. Tại lễ trao giải, Thượng tá Nguyễn Đạt, Phó tổng giám đốc tập đoàn, chúc mừng và cam kết, Viettel sẽ luôn đồng hành cùng những ước mơ của nhân lực trẻ.Lan Anh

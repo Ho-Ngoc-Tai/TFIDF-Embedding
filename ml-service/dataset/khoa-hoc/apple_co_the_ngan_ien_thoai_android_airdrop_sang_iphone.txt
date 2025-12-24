@@ -1,0 +1,21 @@
+Việc chia sẻ tệp tin, ảnh giữa các thiết bị là một trong những tính năng được sử dụng nhiều hiện nay. Các thiết bị trong hệ sinh thái Apple nổi tiếng với tính năng AirDrop, còn thiết bị Android có Quick Share, tuy nhiên hai hệ sinh thái này lại không tương thích nhau. Cuối tháng 11, Google khẳng định Quick Share có khả năng tương thích AirDrop của Apple mà không cần sự hỗ trợ từ đối thủ."Người dùng Android và iPhone hiện có thể chia sẻ tệp cho nhau", Google tuyên bố trên blog và cho biết đã bắt đầu triển khai trên điện thoại Pixel 10.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Tính năng AirDrop chuyển danh bạ hoạt động trên hai mẫu iPhone. Ảnh:Nextpit
+
+Theo Google, việc chia sẻ dữ liệu diễn ra thông qua kết nối ngang hàng trực tiếp giữa hai thiết bị, không đi qua bất kỳ máy chủ nào. Tuy nhiên, chuyên gia Mark Gurman của Bloomberg cho biết Apple đang lên kế hoạch chặn khả năng tương thích với Android.Dù vậy, việc ngăn chặn có thể khiến Apple gặp rắc rối với các cơ quản lý, nhất là ở châu Âu. Trước đó, hãng phải "mở cửa" kho ứng dụng App Store để nhà phát triển và người dùng chọn thanh toán qua kênh thứ ba. Họ cũng phải chuyển cổng kết nối từ Lightning sang USB-C từ thế hệ iPhone 15.Quảng cáoAirDrop được lần đầu giới thiệu năm 2011 trên hệ điều hành Mac OS X Lion, sau đó mở rộng ra iOS 7 vào năm 2013. Dù dựa trên những giải pháp công nghệ trước đó như Bluetooth, Wi-Fi Direct, Apple chỉ cho phép các thiết bị trong hệ sinh thái của mình có thể tìm và chia sẻ tệp tin cho nhau. Những năm gần đây, hãng bắt đầu siết bảo mật bằng cách thiết lập mặc định "Chỉ liên hệ", tức chỉ cho những người trong danh bạ tìm thấy nhau. Nếu muốn nhận file từ người lạ, họ phải bật chế độ "Mọi người trong 10 phút".Huy Đức (theo PhoneArena, Apple Insider)

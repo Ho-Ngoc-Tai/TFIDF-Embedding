@@ -1,0 +1,64 @@
+Các sự cố được ghi nhận nhiều khoảng 16h ngày 5/12 (giờ Hà Nội), ảnh hưởng đến nhiều người dùng cả ở Việt Nam và trên thế giới."Anh em lưu ý, Docker và AWS đang khó truy cập. Có thể lỗi lại là từ Cloudflare", quản trị viên một nhóm IT đăng tải trên mạng xã hội chiều 5/12. Trong phần bình luận, nhiều thành viên khác cũng chia sẻ tình trạng tương tự. Khi truy cập, một số website hiển thị lỗi 500 Internal Server Error, cho thấy kết nối với máy chủ của trang gặp vấn đề.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Ảnh chụp màn hình khi truy cập Cloudflare chiều 5/12. Ảnh: X/Aiden
+
+Trên website theo dõi tình trạng của các dịch vụ Down Detector, gần 2.000 phản ánh về vấn đề của Cloudflare được ghi nhận vào lúc cao nhất khoảng 16h12. Hàng loạt dịch vụ như Crunchyroll, AWS, Shopify, hay các game Fortnite, League of Legends khó truy cập. Trang Down Detector sử dụng Cloudflare cũng rơi vào tình trạng chập chờn.Đại diện Cloudflare chưa xác nhận sự cố, nhưng trang thông báo tình trạng của nền tảng ghi: "Cloudflare đang điều tra mức độ lỗi gia tăng ở những khách hàng đang chạy tập lệnh Worker". Cùng lúc, hãng cũng tiến hành hàng loạt chương trình bảo trì định kỳ tại một số trung tâm dữ liệu ở Mỹ.Đây là lần thứ hai trong chưa đầy 20 ngày, Cloudflare gặp lỗi, dẫn đến hàng loạt dịch vụ khác ảnh hưởng. Theo Independent, sau sự việc hồi tháng 11, nhiều đối tác, như OpenAI, có thể sử dụng các lựa chọn thay thế để giảm bớt sự phụ thuộc vào Cloudflare, giúp tránh được sự cố lần này.
+
+            
+                
+                
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+Trang Down Detector hiển thị sự cố được ghi nhận ở hàng loạt dịch vụ, ứng dụng, chiều 5/12. Ảnh chụp màn hình
+
+Cloudflare là một trong những nhà cung cấp hạ tầng Internet lớn nhất thế giới, vận hành mạng lưới phân phối nội dung, tường lửa web và hệ thống chống tấn công DDoS cho hàng triệu website và ứng dụng. Họ là nền tảng thiết yếu cho khoảng 20% lưu lượng toàn cầu, giúp bảo vệ website khỏi các cuộc tấn công mạng và tối ưu hóa tốc độ tải trang.Trước đó, tối 18/11, người dùng tại Việt Nam và nhiều khu vực trên thế giới từng gặp khó khăn khi truy cập các nền tảng lớn như xAI, Grok, X, Discord, OpenAI ChatGPT, Shopify và hàng nghìn website nhỏ khác. Cloudflare sau đó xác nhận nguyên nhân nằm ở lỗi cấu hình trong bản cập nhật module quản lý Bot (Bot Management) khiến lưu lượng truy cập hợp lệ bị chặn. Sự cố được khắc phục sau 45 phút, nhưng đặt ra vấn đề về vai trò của công ty và các đơn vị cung cấp dịch vụ tương tự trong cấu trúc mạng toàn cầu.Lưu Quý
+                    
+                        
+                        
+                            
+                                
+                                
+        
+            
+            
+            
+            
+        
+                                
+                                
+                            
+                            Cloudflare - 'người gác cổng' của Internet
+                            
+                                Cloudflare đóng vai trò "màng lọc" bảo vệ kết nối Internet, được nhiều dịch vụ lựa chọn sử dụng, nhưng cũng bị coi là một trong những điểm nghẽn của thế giới số.
+                                
+                                    
+        
+	        
+            33
